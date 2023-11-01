@@ -1,0 +1,39 @@
+{
+    "1698810096943605:1799891": {
+        "IResourceController": {
+            "name": "Confetti__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428898087317:430317",
+            "fileId": "1698810096944652:1800750",
+            "originalId": "1698810096944662:1800760",
+            "publicId": "1698810096944959:1801278",
+            "expected_hash": "a9e482eef880bd442582b741d59051ba"
+        },
+        "IResourceManager": {
+            "uid": "1634428898087317:430317",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1698810096944652:1800750": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944652_1800750.oprfb"
+        }
+    },
+    "1698810096944662:1800760": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944662_1800760.oprfb"
+        }
+    },
+    "1698810096944959:1801278": {
+        "IResourceController": {
+            "public": {
+                "path": "Confetti__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "a9e482eef880bd442582b741d59051ba"
+            }
+        }
+    }
+}

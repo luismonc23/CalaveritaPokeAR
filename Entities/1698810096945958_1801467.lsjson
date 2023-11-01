@@ -1,0 +1,22 @@
+{
+    "1698810096944967:1801311": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]"
+            }
+        }
+    },
+    "1698810096945958:1801467": {
+        "IResourceController": {
+            "name": "VFX [DOUBLE_CLICK_VFX_ASSET]",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944967:1801311",
+            "resources": [
+                "1698810096945958:1801466"
+            ]
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "1634442351648518:2396525": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1172",
+                "compressedSize": "1147",
+                "extension": "mesh",
+                "originalRAM": "1172",
+                "originalSize": "1147",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108782395:1873969"
+        }
+    },
+    "1698810096943609:1799928": {
+        "IResourceController": {
+            "name": "Mesh1 3",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634442351648518:2396525",
+            "fileId": "1698810096944718:1800816",
+            "originalId": "1698810096944719:1800817",
+            "publicId": "1698810096944968:1801318",
+            "expected_hash": "27a46a997263b40bf845df962342f027"
+        },
+        "IResourceManager": {
+            "uid": "1634442351648518:2396525",
+            "name": "Files/File_1698810096944718_1800816.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096944718:1800816": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944718_1800816.mesh"
+        }
+    },
+    "1698810096944719:1800817": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944719_1800817.mesh"
+        }
+    },
+    "1698810096944968:1801318": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Meshes_1/Mesh1 3.mesh",
+                "hash": "27a46a997263b40bf845df962342f027"
+            }
+        }
+    },
+    "1698810108782395:1873969": {
+        "IFileManager": {
+            "path": "Files/File_1698810108782395_1873969.mesh"
+        }
+    }
+}

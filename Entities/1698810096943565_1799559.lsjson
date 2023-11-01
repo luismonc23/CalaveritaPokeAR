@@ -1,0 +1,39 @@
+{
+    "1698810096943565:1799559": {
+        "IResourceController": {
+            "name": "nuevo_cempa_text",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792304716513:24457",
+            "fileId": "1698810096943898:1799984",
+            "originalId": "1698810096943899:1799985",
+            "publicId": "1698810096944887:1800973",
+            "expected_hash": "0371d72b99f0c5d00bea813b41ae9ce3"
+        },
+        "IResourceManager": {
+            "uid": "1588792304716513:24457",
+            "name": "Files/File_1698810096943898_1799984",
+            "flags": 1
+        }
+    },
+    "1698810096943898:1799984": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943898_1799984"
+        }
+    },
+    "1698810096943899:1799985": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943899_1799985.lsmat"
+        }
+    },
+    "1698810096944887:1800973": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Advanced Ground Examples/nuevo_cempa_text.lsmat",
+                "hash": "395d73e2c8b30899542288fb3daf4c10"
+            }
+        }
+    }
+}

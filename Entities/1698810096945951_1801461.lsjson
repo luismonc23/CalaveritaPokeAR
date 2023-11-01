@@ -1,0 +1,22 @@
+{
+    "1698810096944965:1801301": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Textures"
+            }
+        }
+    },
+    "1698810096945951:1801461": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944965:1801301",
+            "resources": [
+                "1698810096943608:1799914"
+            ]
+        }
+    }
+}

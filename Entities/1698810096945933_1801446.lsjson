@@ -1,0 +1,22 @@
+{
+    "1698810096944956:1801260": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/topmesa/Materials"
+            }
+        }
+    },
+    "1698810096945933:1801446": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944956:1801260",
+            "resources": [
+                "1698810169581463:1950869"
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1698810096944971:1801330": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example/Textures"
+            }
+        }
+    },
+    "1698810096945961:1801470": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944971:1801330",
+            "resources": [
+                "1698810096943611:1799944",
+                "1698810096943611:1799945"
+            ]
+        }
+    }
+}

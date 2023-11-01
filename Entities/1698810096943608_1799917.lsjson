@@ -1,0 +1,33 @@
+{
+    "1698810096943608:1799917": {
+        "IResourceController": {
+            "name": "puntoGold",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634432170444967:1284198",
+            "fileId": "1698810096944697:1800795",
+            "publicId": "1698810096944966:1801307",
+            "expected_hash": "7740f4359c53e7415adae7d44307feb0"
+        },
+        "IResourceManager": {
+            "uid": "1634432170444967:1284198",
+            "name": "Files/File_1698810096944697_1800795.wav",
+            "flags": 1
+        }
+    },
+    "1698810096944697:1800795": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944697_1800795.wav"
+        }
+    },
+    "1698810096944966:1801307": {
+        "IResourceController": {
+            "public": {
+                "path": "puntoGold.wav",
+                "hash": "7740f4359c53e7415adae7d44307feb0"
+            }
+        }
+    }
+}

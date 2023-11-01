@@ -1,0 +1,38 @@
+{
+    "1588792306354657:25026": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943566:1799568": {
+        "IResourceController": {
+            "name": "PickupAnimatedObjectController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792306354657:25026",
+            "fileId": "1698810096943911:1799999",
+            "publicId": "1698810096944869:1800913",
+            "expected_hash": "f8f90502eff75727fec8ddccafda4333"
+        },
+        "IResourceManager": {
+            "uid": "1588792306354657:25026",
+            "name": "Files/File_1698810096943911_1799999.js",
+            "flags": 1
+        }
+    },
+    "1698810096943911:1799999": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943911_1799999.js"
+        }
+    },
+    "1698810096944869:1800913": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/PickupAnimatedObjectController.js",
+                "hash": "f8f90502eff75727fec8ddccafda4333"
+            }
+        }
+    }
+}

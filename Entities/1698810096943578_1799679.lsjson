@@ -1,0 +1,40 @@
+{
+    "1698810096943578:1799679": {
+        "IResourceController": {
+            "name": "skullPop",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837236957999:1184821",
+            "fileId": "1698810096944149:1800255",
+            "originalId": "1698810096944150:1800256",
+            "publicId": "1698810096944911:1801083",
+            "expected_hash": "1627ce6e04af59b416cb1027a7a64a18"
+        },
+        "IResourceManager": {
+            "uid": "1633837236957999:1184821",
+            "name": "Files/File_1698810096944149_1800255",
+            "flags": 1
+        }
+    },
+    "1698810096944149:1800255": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944149_1800255"
+        }
+    },
+    "1698810096944150:1800256": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944150_1800256"
+        }
+    },
+    "1698810096944911:1801083": {
+        "IResourceController": {
+            "public": {
+                "path": "skullPop",
+                "hash": "1627ce6e04af59b416cb1027a7a64a18",
+                "complexResourceHash": "2981f8c9f28dab8ec6d1234abdbf3d46"
+            }
+        }
+    }
+}

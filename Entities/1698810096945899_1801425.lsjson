@@ -1,0 +1,23 @@
+{
+    "1698810096944943:1801203": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Info Card [DELETE_ME]/Fonts"
+            }
+        }
+    },
+    "1698810096945899:1801425": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944943:1801203",
+            "resources": [
+                "1698810096943593:1799796",
+                "1698810096943593:1799797"
+            ]
+        }
+    }
+}

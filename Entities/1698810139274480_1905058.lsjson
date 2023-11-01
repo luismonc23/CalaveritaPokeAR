@@ -1,0 +1,39 @@
+{
+    "1698810139273758:1905052": {
+        "IFileManager": {
+            "path": "Files/File_1698810139273758_1905052"
+        }
+    },
+    "1698810139274480:1905058": {
+        "IResourceController": {
+            "name": "wood Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810139274483:1905059",
+            "fileId": "1698810139273758:1905052",
+            "originalId": "1698810139289426:1905065",
+            "publicId": "1698810139564159:1905531",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810139274483:1905059",
+            "name": "Files/File_1698810139273758_1905052",
+            "flags": 1
+        }
+    },
+    "1698810139289426:1905065": {
+        "IFileManager": {
+            "path": "Files/File_1698810139289426_1905065.lsmat"
+        }
+    },
+    "1698810139564159:1905531": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets/Materials2/wood Graph.lsmat",
+                "hash": "9f101a301fb2bb98adf9a5c07f15d9c1"
+            }
+        }
+    }
+}

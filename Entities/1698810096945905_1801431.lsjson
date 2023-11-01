@@ -1,0 +1,48 @@
+{
+    "1698810096944458:1800560": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944458_1800560.fbx"
+        }
+    },
+    "1698810096944944:1801209": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_more_skull.fbx",
+                "hash": "f40e690b5fe4d87d813adac57462f02c"
+            }
+        }
+    },
+    "1698810096945905:1801431": {
+        "IResourceController": {
+            "name": "altar_more_skull",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698810096944458:1800560",
+            "publicId": "1698810096944944:1801209",
+            "expected_hash": "f40e690b5fe4d87d813adac57462f02c",
+            "resources": [
+                "1698810096945903:1801429",
+                "1698810096945904:1801430",
+                "1698810096943594:1799805"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Color_E05",
+                        "v": "1634261981355513:82346"
+                    },
+                    {
+                        "k": "Sumele_Dress",
+                        "v": "1634261980941144:82304"
+                    },
+                    {
+                        "k": "lambert2SG",
+                        "v": "1634261981154007:82325"
+                    }
+                ]
+            }
+        }
+    }
+}

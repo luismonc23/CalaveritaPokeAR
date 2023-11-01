@@ -1,0 +1,79 @@
+{
+    "1634505162557400:704013": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "f6d55912076cde9cd92ff42470383f3e"
+                    },
+                    "v": "1698810096944755:1800854"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "7461",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "6097",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944751:1800850"
+        }
+    },
+    "1698810096943611:1799945": {
+        "IResourceController": {
+            "name": "octopus_prams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634505162557400:704013",
+            "fileId": "1698810096944749:1800848",
+            "originalId": "1698810096944750:1800849",
+            "publicId": "1698810096944971:1801332",
+            "expected_hash": "8e77b04d8d8233dd5121fa216450896e",
+            "additional": {
+                "originHash": "f6d55912076cde9cd92ff42470383f3e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634505162557400:704013",
+            "name": "Files/File1406.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944749:1800848": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944749_1800848.pvr"
+        }
+    },
+    "1698810096944750:1800849": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944750_1800849.png"
+        }
+    },
+    "1698810096944751:1800850": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944751_1800850.png"
+        }
+    },
+    "1698810096944755:1800854": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944755_1800854.pvr"
+        }
+    },
+    "1698810096944971:1801332": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example/Textures/octopus_prams.png",
+                "hash": "f6d55912076cde9cd92ff42470383f3e"
+            }
+        }
+    }
+}

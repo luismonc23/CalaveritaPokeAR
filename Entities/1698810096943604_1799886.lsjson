@@ -1,0 +1,79 @@
+{
+    "1634360448730011:1961479": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "f35412d05d74bf541c460d3f96846d5f"
+                    },
+                    "v": "1698810096944640:1800737"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1027200",
+                "compressedSize": "150976",
+                "extension": "jpg",
+                "originalRAM": "1027200",
+                "originalSize": "150976",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810096944639:1800736"
+        }
+    },
+    "1698810096943604:1799886": {
+        "IResourceController": {
+            "name": "pyc_81_La-Calavera-Garbancera90-color-web",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634360448730011:1961479",
+            "fileId": "1698810096944637:1800734",
+            "originalId": "1698810096944638:1800735",
+            "publicId": "1698810096944958:1801270",
+            "expected_hash": "f35412d05d74bf541c460d3f96846d5f",
+            "additional": {
+                "originHash": "f35412d05d74bf541c460d3f96846d5f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634360448730011:1961479",
+            "name": "Files/File_1698810096944637_1800734.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944637:1800734": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944637_1800734.jpg"
+        }
+    },
+    "1698810096944638:1800735": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944638_1800735.jpg"
+        }
+    },
+    "1698810096944639:1800736": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944639_1800736.jpg"
+        }
+    },
+    "1698810096944640:1800737": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944640_1800737.jpg"
+        }
+    },
+    "1698810096944958:1801270": {
+        "IResourceController": {
+            "public": {
+                "path": "pyc_81_La-Calavera-Garbancera90-color-web.jpg",
+                "hash": "f35412d05d74bf541c460d3f96846d5f"
+            }
+        }
+    }
+}

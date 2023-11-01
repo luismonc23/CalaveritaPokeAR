@@ -1,0 +1,39 @@
+{
+    "1698810158429450:1933907": {
+        "IFileManager": {
+            "path": "Files/File_1698810158429450_1933907"
+        }
+    },
+    "1698810158430967:1933908": {
+        "IResourceController": {
+            "name": "retrato2mat 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810158430973:1933909",
+            "fileId": "1698810158429450:1933907",
+            "originalId": "1698810158445970:1933945",
+            "publicId": "1698810158737599:1934357",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810158430973:1933909",
+            "name": "Files/File_1698810158429450_1933907",
+            "flags": 1
+        }
+    },
+    "1698810158445970:1933945": {
+        "IFileManager": {
+            "path": "Files/File_1698810158445970_1933945.lsmat"
+        }
+    },
+    "1698810158737599:1934357": {
+        "IResourceController": {
+            "public": {
+                "path": "retrato2mat 2 Graph.lsmat",
+                "hash": "d7a2da1a7b874b81e05d36f6f50a19ed"
+            }
+        }
+    }
+}

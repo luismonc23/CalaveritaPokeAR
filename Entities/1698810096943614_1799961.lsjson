@@ -1,0 +1,76 @@
+{
+    "1634526609888500:336146": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "0929ebc16c422c568650234abcf51de3"
+                    },
+                    "v": "1698810096944791:1800893"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2097152",
+                "compressedSize": "296797",
+                "extension": "t3d",
+                "originalRAM": "16744464",
+                "originalSize": "1194662",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944790:1800892"
+        }
+    },
+    "1698810096943614:1799961": {
+        "IResourceController": {
+            "name": "newCala",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634526609888500:336146",
+            "fileId": "1698810096944789:1800890",
+            "originalId": "1698810096944790:1800891",
+            "publicId": "1698810096944975:1801347",
+            "expected_hash": "5498d2eb1aa1e9decc60e4eb4b602311"
+        },
+        "IResourceManager": {
+            "uid": "1634526609888500:336146",
+            "name": "Files/File_1698810096944789_1800890",
+            "flags": 1
+        }
+    },
+    "1698810096944789:1800890": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944789_1800890"
+        }
+    },
+    "1698810096944790:1800891": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944790_1800891.gif"
+        }
+    },
+    "1698810096944790:1800892": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944790_1800892"
+        }
+    },
+    "1698810096944791:1800893": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944791_1800893"
+        }
+    },
+    "1698810096944975:1801347": {
+        "IResourceController": {
+            "public": {
+                "path": "newCala.gif",
+                "hash": "817c4974517aff7375ff9989ed61f35d"
+            }
+        }
+    }
+}

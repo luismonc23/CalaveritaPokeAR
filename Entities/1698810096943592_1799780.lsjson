@@ -1,0 +1,79 @@
+{
+    "1634180920940826:2225767": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "da2e2204defc52176935420db883ff03"
+                    },
+                    "v": "1698810096944413:1800512"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "90416",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "666263",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944412:1800511"
+        }
+    },
+    "1698810096943592:1799780": {
+        "IResourceController": {
+            "name": "rugcloth",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634180920940826:2225767",
+            "fileId": "1698810096944403:1800509",
+            "originalId": "1698810096944411:1800510",
+            "publicId": "1698810096944932:1801182",
+            "expected_hash": "54d92dc711495fc7f31ceb28b0cd7039",
+            "additional": {
+                "originHash": "da2e2204defc52176935420db883ff03"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634180920940826:2225767",
+            "name": "Files/File1006.png",
+            "flags": 1
+        }
+    },
+    "1698810096944403:1800509": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944403_1800509.pvr"
+        }
+    },
+    "1698810096944411:1800510": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944411_1800510.png"
+        }
+    },
+    "1698810096944412:1800511": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944412_1800511.png"
+        }
+    },
+    "1698810096944413:1800512": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944413_1800512.pvr"
+        }
+    },
+    "1698810096944932:1801182": {
+        "IResourceController": {
+            "public": {
+                "path": "rugcloth.png",
+                "hash": "da2e2204defc52176935420db883ff03"
+            }
+        }
+    }
+}

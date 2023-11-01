@@ -1,0 +1,39 @@
+{
+    "1698810134711593:1901295": {
+        "IFileManager": {
+            "path": "Files/File_1698810134711593_1901295"
+        }
+    },
+    "1698810134712200:1901296": {
+        "IResourceController": {
+            "name": "touch_collision 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810134712204:1901297",
+            "fileId": "1698810134711593:1901295",
+            "originalId": "1698810134726264:1901413",
+            "publicId": "1698810136153116:1901744",
+            "expected_hash": "b313f60e0a026fe82533f93e710f1845"
+        },
+        "IResourceManager": {
+            "uid": "1698810134712204:1901297",
+            "name": "Files/File_1698810134711593_1901295",
+            "flags": 1
+        }
+    },
+    "1698810134726264:1901413": {
+        "IFileManager": {
+            "path": "Files/File_1698810134726264_1901413.lsmat"
+        }
+    },
+    "1698810136153116:1901744": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Materials/touch_collision 2 Graph.lsmat",
+                "hash": "97c2dc7af741c078fba367250b8f3092"
+            }
+        }
+    }
+}

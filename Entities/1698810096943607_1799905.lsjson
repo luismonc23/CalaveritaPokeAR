@@ -1,0 +1,17 @@
+{
+    "1698810096943607:1799905": {
+        "IResourceController": {
+            "name": "temp_box_top _ Pivot 2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914341394:442516"
+        },
+        "IResourceManager": {
+            "uid": "1634428914341394:442516",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

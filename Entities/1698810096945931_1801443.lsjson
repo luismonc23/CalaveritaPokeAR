@@ -1,0 +1,22 @@
+{
+    "1698810096944955:1801257": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/cesta_cala/Materials"
+            }
+        }
+    },
+    "1698810096945931:1801443": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944955:1801257",
+            "resources": [
+                "1698810096943602:1799874"
+            ]
+        }
+    }
+}

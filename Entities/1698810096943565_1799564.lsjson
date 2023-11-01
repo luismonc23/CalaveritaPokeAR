@@ -1,0 +1,79 @@
+{
+    "1588792305767816:24822": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "567c8dd881644eeb99f5509da6ad8122"
+                    },
+                    "v": "1698810096944237:1800349"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "66935",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "226715",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944236:1800348"
+        }
+    },
+    "1698810096943565:1799564": {
+        "IResourceController": {
+            "name": "fireball_2x2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792305767816:24822",
+            "fileId": "1698810096943905:1799992",
+            "originalId": "1698810096943906:1799993",
+            "publicId": "1698810096944886:1800969",
+            "expected_hash": "3718ce37f55cc5d3c0da274232e8bfd2",
+            "additional": {
+                "originHash": "567c8dd881644eeb99f5509da6ad8122"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792305767816:24822",
+            "name": "Files/File44.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943905:1799992": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943905_1799992.pvr"
+        }
+    },
+    "1698810096943906:1799993": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943906_1799993.png"
+        }
+    },
+    "1698810096944236:1800348": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944236_1800348.png"
+        }
+    },
+    "1698810096944237:1800349": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944237_1800349.pvr"
+        }
+    },
+    "1698810096944886:1800969": {
+        "IResourceController": {
+            "public": {
+                "path": "ParticleResources/Textures/fireball_2x2.png",
+                "hash": "567c8dd881644eeb99f5509da6ad8122"
+            }
+        }
+    }
+}

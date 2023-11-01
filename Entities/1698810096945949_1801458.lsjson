@@ -1,0 +1,23 @@
+{
+    "1698810096944963:1801293": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Particles"
+            }
+        }
+    },
+    "1698810096945949:1801458": {
+        "IResourceController": {
+            "name": "Particles",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944963:1801293",
+            "resources": [
+                "1698810096943608:1799910",
+                "1698810172183696:1954884"
+            ]
+        }
+    }
+}

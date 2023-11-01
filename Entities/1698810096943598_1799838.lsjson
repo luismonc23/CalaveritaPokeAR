@@ -1,0 +1,39 @@
+{
+    "1698810096943598:1799838": {
+        "IResourceController": {
+            "name": "Wood 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634262091171332:120543",
+            "fileId": "1698810096944523:1800625",
+            "originalId": "1698810096944524:1800626",
+            "publicId": "1698810096944949:1801232",
+            "expected_hash": "51fd4569cf3e796a3e951fbec60a3fe9"
+        },
+        "IResourceManager": {
+            "uid": "1634262091171332:120543",
+            "name": "Files/File_1698810096944523_1800625",
+            "flags": 1
+        }
+    },
+    "1698810096944523:1800625": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944523_1800625"
+        }
+    },
+    "1698810096944524:1800626": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944524_1800626.lsmat"
+        }
+    },
+    "1698810096944949:1801232": {
+        "IResourceController": {
+            "public": {
+                "path": "Wood 2.lsmat",
+                "hash": "c144fe46c4f3a8e2d3cb0e3e6769efaf"
+            }
+        }
+    }
+}

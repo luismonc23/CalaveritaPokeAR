@@ -1,0 +1,79 @@
+{
+    "1588792308023535:27265": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c6f3a0b50a3662ca06c420a7395dc869"
+                    },
+                    "v": "1698810096943997:1800093"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "16665",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "6731",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096943983:1800079"
+        }
+    },
+    "1698810096943568:1799583": {
+        "IResourceController": {
+            "name": "ground_mask_alpha",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792308023535:27265",
+            "fileId": "1698810096943935:1800028",
+            "originalId": "1698810096943936:1800029",
+            "publicId": "1698810096944877:1800952",
+            "expected_hash": "03a9ca2d1bd96e5591ffbfbcada49db0",
+            "additional": {
+                "originHash": "c6f3a0b50a3662ca06c420a7395dc869"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792308023535:27265",
+            "name": "Files/File110.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943935:1800028": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943935_1800028.pvr"
+        }
+    },
+    "1698810096943936:1800029": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943936_1800029.png"
+        }
+    },
+    "1698810096943983:1800079": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943983_1800079.png"
+        }
+    },
+    "1698810096943997:1800093": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943997_1800093.pvr"
+        }
+    },
+    "1698810096944877:1800952": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/ground_mask_alpha.png",
+                "hash": "c6f3a0b50a3662ca06c420a7395dc869"
+            }
+        }
+    }
+}

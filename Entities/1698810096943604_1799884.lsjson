@@ -1,0 +1,79 @@
+{
+    "1634358211413880:1551217": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3ee09c0a30d72c1fd59cb52ec8b1b940"
+                    },
+                    "v": "1698810096944634:1800731"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "202072",
+                "compressedSize": "166795",
+                "extension": "png",
+                "originalRAM": "1607340",
+                "originalSize": "629608",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944633:1800730"
+        }
+    },
+    "1698810096943604:1799884": {
+        "IResourceController": {
+            "name": "cempa_rug",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634358211413880:1551217",
+            "fileId": "1698810096944631:1800728",
+            "originalId": "1698810096944632:1800729",
+            "publicId": "1698810096944957:1801268",
+            "expected_hash": "e39edb85f821e3acad6e8a7cbee46dfa",
+            "additional": {
+                "originHash": "3ee09c0a30d72c1fd59cb52ec8b1b940"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634358211413880:1551217",
+            "name": "Files/File1252.png",
+            "flags": 1
+        }
+    },
+    "1698810096944631:1800728": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944631_1800728.pvr"
+        }
+    },
+    "1698810096944632:1800729": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944632_1800729.png"
+        }
+    },
+    "1698810096944633:1800730": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944633_1800730.png"
+        }
+    },
+    "1698810096944634:1800731": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944634_1800731.pvr"
+        }
+    },
+    "1698810096944957:1801268": {
+        "IResourceController": {
+            "public": {
+                "path": "cempa_rug.png",
+                "hash": "3ee09c0a30d72c1fd59cb52ec8b1b940"
+            }
+        }
+    }
+}

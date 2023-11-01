@@ -1,0 +1,24 @@
+{
+    "1698810096944970:1801325": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example"
+            }
+        }
+    },
+    "1698810096945962:1801471": {
+        "IResourceController": {
+            "name": "Extrude Example",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944970:1801325",
+            "resources": [
+                "1698810096945960:1801468",
+                "1698810096945960:1801469",
+                "1698810096945961:1801470"
+            ]
+        }
+    }
+}

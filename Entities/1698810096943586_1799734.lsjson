@@ -1,0 +1,79 @@
+{
+    "1633841133262574:2735299": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8c7111bd6660675cdf84f0b921a4c40c"
+                    },
+                    "v": "1698810096944282:1800385"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "86547",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "218897",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944281:1800384"
+        }
+    },
+    "1698810096943586:1799734": {
+        "IResourceController": {
+            "name": "AmbientOcclusionMap",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633841133262574:2735299",
+            "fileId": "1698810096944279:1800382",
+            "originalId": "1698810096944280:1800383",
+            "publicId": "1698810096944925:1801145",
+            "expected_hash": "59caf2129902434edbbb2dcaa97ca37a",
+            "additional": {
+                "originHash": "8c7111bd6660675cdf84f0b921a4c40c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633841133262574:2735299",
+            "name": "Files/File786.png",
+            "flags": 1
+        }
+    },
+    "1698810096944279:1800382": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944279_1800382.pvr"
+        }
+    },
+    "1698810096944280:1800383": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944280_1800383.png"
+        }
+    },
+    "1698810096944281:1800384": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944281_1800384.png"
+        }
+    },
+    "1698810096944282:1800385": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944282_1800385.pvr"
+        }
+    },
+    "1698810096944925:1801145": {
+        "IResourceController": {
+            "public": {
+                "path": "AmbientOcclusionMap.png",
+                "hash": "8c7111bd6660675cdf84f0b921a4c40c"
+            }
+        }
+    }
+}

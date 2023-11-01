@@ -1,0 +1,38 @@
+{
+    "1634429905774624:903028": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943608:1799913": {
+        "IResourceController": {
+            "name": "InstanceController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634429905774624:903028",
+            "fileId": "1698810096944690:1800788",
+            "publicId": "1698810096944965:1801300",
+            "expected_hash": "e41d92e023433a8ee30c62e09a743f00"
+        },
+        "IResourceManager": {
+            "uid": "1634429905774624:903028",
+            "name": "Files/File_1698810096944690_1800788.js",
+            "flags": 1
+        }
+    },
+    "1698810096944690:1800788": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944690_1800788.js"
+        }
+    },
+    "1698810096944965:1801300": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Scripts/InstanceController.js",
+                "hash": "e41d92e023433a8ee30c62e09a743f00"
+            }
+        }
+    }
+}

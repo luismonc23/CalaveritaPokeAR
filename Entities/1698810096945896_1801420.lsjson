@@ -1,0 +1,22 @@
+{
+    "1698810096944940:1801193": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Meshes"
+            }
+        }
+    },
+    "1698810096945896:1801420": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944940:1801193",
+            "resources": [
+                "1698810096943593:1799791"
+            ]
+        }
+    }
+}

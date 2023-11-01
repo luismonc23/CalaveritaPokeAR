@@ -1,0 +1,529 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1588799480158585:133372",
+                "1588799616874149:197683",
+                "1588882789468345:193917",
+                "1588882789468761:193919",
+                "1633906884753175:1350509",
+                "1634154836324033:3952201",
+                "1634162672802130:8998446",
+                "1634264080824261:667066",
+                "1634435809231966:228532"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1588792304716513:24457"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Face Mesh Resources",
+                    "Extrude Example",
+                    "Materials",
+                    "octopus_materials Graph"
+                ],
+                [
+                    "Giftbox Resources",
+                    "Meshes",
+                    "giftbox",
+                    "Materials",
+                    "temp____Default1 Graph"
+                ],
+                [
+                    "Giftbox Resources",
+                    "Meshes",
+                    "giftbox",
+                    "Materials",
+                    "temp____Default3 Graph"
+                ],
+                [
+                    "Giftbox Resources",
+                    "Particles",
+                    "Particles Emitter Material Graph"
+                ],
+                [
+                    "ParticleResources",
+                    "particula_cempa Graph"
+                ],
+                [
+                    "Segmentation Resources",
+                    "ML"
+                ],
+                [
+                    "Segmentation Resources",
+                    "Render Targets"
+                ],
+                [
+                    "Textures",
+                    "Materials",
+                    "ground_grid 2 Graph"
+                ],
+                [
+                    "Textures",
+                    "Materials",
+                    "touch_collision 2 Graph"
+                ],
+                [
+                    "Textures",
+                    "White"
+                ],
+                [
+                    "UI"
+                ],
+                [
+                    "altar_more_Wassets",
+                    "Materials0",
+                    "FrontColor Graph"
+                ],
+                [
+                    "altar_more_Wassets_bk",
+                    "Materials0",
+                    "Basket_01 Graph"
+                ],
+                [
+                    "altar_more_Wassets_bk",
+                    "Materials0",
+                    "_auto_ Graph"
+                ],
+                [
+                    "altar_more_skull",
+                    "Materials0",
+                    "Color_E05 Graph"
+                ],
+                [
+                    "altar_more_skull",
+                    "Materials0",
+                    "Sumele_Dress Graph"
+                ],
+                [
+                    "altar_more_skull",
+                    "Materials0",
+                    "lambert2SG Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "Ceramic 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "Coffee 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "FrontColor 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "PBR 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "PBR Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "Vasija Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "_1 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets",
+                    "Materials2",
+                    "wood Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Ceramic 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Ceramic Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Coffee 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Coffee Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Color_C05 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Color_C05 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Color_F04 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Color_I03 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Color_L05 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "FrontColor 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Wood_Floor 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Wood_Floor Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Wood_Floor_Dark 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Wood_Floor_Dark Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "Wood_Floor_Light Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "_1 2 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "_1 Graph"
+                ],
+                [
+                    "altar_new_Wassets 2",
+                    "Materials2",
+                    "white_mat Graph"
+                ],
+                [
+                    "arco Graph"
+                ],
+                [
+                    "blkmat Graph"
+                ],
+                [
+                    "cempasuchilmat 2 Graph"
+                ],
+                [
+                    "cempasuchilmat 3 Graph"
+                ],
+                [
+                    "cempasuchilmat 4 Graph"
+                ],
+                [
+                    "cempasuchilmat Graph"
+                ],
+                [
+                    "cesta",
+                    "Materials",
+                    "Basket_01 Graph"
+                ],
+                [
+                    "cesta",
+                    "Materials",
+                    "material21 Graph"
+                ],
+                [
+                    "emptymat 2 Graph"
+                ],
+                [
+                    "emptymat Graph"
+                ],
+                [
+                    "goldcalaverita",
+                    "Materials0",
+                    "Color_E05 Graph"
+                ],
+                [
+                    "goldcalaverita",
+                    "Materials0",
+                    "Sumele_Dress 2 Graph"
+                ],
+                [
+                    "goldcalaverita",
+                    "Materials0",
+                    "Sumele_Dress Graph"
+                ],
+                [
+                    "goldcalaverita",
+                    "Materials0",
+                    "lambert2SG 2 Graph"
+                ],
+                [
+                    "goldcalaverita",
+                    "Materials0",
+                    "lambert2SG Graph"
+                ],
+                [
+                    "greenmat Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn11 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn3 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn4 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn6 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn7 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn8 Graph"
+                ],
+                [
+                    "mug",
+                    "Materials0",
+                    "blinn9 Graph"
+                ],
+                [
+                    "pan"
+                ],
+                [
+                    "pan",
+                    "Materials1",
+                    "Material 2 Graph"
+                ],
+                [
+                    "pan",
+                    "Materials1",
+                    "Material Graph"
+                ],
+                [
+                    "redmat Graph"
+                ],
+                [
+                    "retrato1mat 2 Graph"
+                ],
+                [
+                    "retrato1mat Graph"
+                ],
+                [
+                    "retrato2mat 2 Graph"
+                ],
+                [
+                    "retrato2mat Graph"
+                ],
+                [
+                    "retrato3mat 2 Graph"
+                ],
+                [
+                    "retrato3mat Graph"
+                ],
+                [
+                    "rugmat 10 Graph"
+                ],
+                [
+                    "rugmat 11 Graph"
+                ],
+                [
+                    "rugmat 2 Graph"
+                ],
+                [
+                    "rugmat 3 Graph"
+                ],
+                [
+                    "rugmat 4 Graph"
+                ],
+                [
+                    "rugmat 5 Graph"
+                ],
+                [
+                    "rugmat 6 Graph"
+                ],
+                [
+                    "rugmat 7 Graph"
+                ],
+                [
+                    "rugmat 8 Graph"
+                ],
+                [
+                    "rugmat 9 Graph"
+                ],
+                [
+                    "rugmat Graph"
+                ],
+                [
+                    "rugmatcloth 2 Graph"
+                ],
+                [
+                    "rugmatcloth Graph"
+                ],
+                [
+                    "scored 2 Graph"
+                ],
+                [
+                    "scored Graph"
+                ],
+                [
+                    "skull 2 Graph"
+                ],
+                [
+                    "skull 3 Graph"
+                ],
+                [
+                    "skull Graph"
+                ],
+                [
+                    "topmesa",
+                    "Materials",
+                    "FrontColor Graph"
+                ],
+                [
+                    "velamat 2 Graph"
+                ],
+                [
+                    "velamat 3 Graph"
+                ],
+                [
+                    "velamat 4 Graph"
+                ],
+                [
+                    "velamat 5 Graph"
+                ],
+                [
+                    "velamat 6 Graph"
+                ],
+                [
+                    "velamat 7 Graph"
+                ],
+                [
+                    "velamat 8 Graph"
+                ],
+                [
+                    "velamat Graph"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "1588792308073255:27302",
+                "1588792308073527:27304",
+                "1588792308073784:27306",
+                "1588792308108616:27570",
+                "1588792308392544:28042",
+                "1588792308392915:28044",
+                "1588792308399771:28122",
+                "1588799480157367:133230",
+                "1588799480158844:133374",
+                "1588799480214570:133698",
+                "1588882789292503:193488",
+                "1588904286170639:361781",
+                "1588973742075760:189949",
+                "1589243569671104:62904",
+                "1589245775430447:439998",
+                "1589245891665033:494432",
+                "1589246012917674:549361",
+                "1633837239397935:1185301",
+                "1633837239403377:1185305",
+                "1633837239467862:1185440",
+                "1633837239568580:1185638",
+                "1634143345350668:180812",
+                "1634318587205443:201689",
+                "1634318835895157:261417",
+                "1634349468202188:3192272",
+                "1634442352634606:2396821"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1698810136069945:1901638": "/Users/work/Library/Caches/Snap/Lens Studio/temp/StudioWKkfVVWoCoap//system//emergencyFiles/emergencyJpg.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "resources": [
+                [
+                    "1633837565299053:1303960",
+                    [
+                        "startGame"
+                    ]
+                ]
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {},
+    "ScriptModulesController": {}
+}

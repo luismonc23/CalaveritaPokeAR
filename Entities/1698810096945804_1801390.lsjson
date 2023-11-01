@@ -1,0 +1,24 @@
+{
+    "1698810096944880:1800965": {
+        "IResourceController": {
+            "public": {
+                "path": "ParticleResources"
+            }
+        }
+    },
+    "1698810096945804:1801390": {
+        "IResourceController": {
+            "name": "ParticleResources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944880:1800965",
+            "resources": [
+                "1698810096945802:1801388",
+                "1698810096945804:1801389",
+                "1698810136269958:1901847"
+            ]
+        }
+    }
+}

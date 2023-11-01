@@ -1,0 +1,39 @@
+{
+    "1698810145061227:1913889": {
+        "IFileManager": {
+            "path": "Files/File_1698810145061227_1913889"
+        }
+    },
+    "1698810145062358:1913890": {
+        "IResourceController": {
+            "name": "Color_C05 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810145062363:1913891",
+            "fileId": "1698810145061227:1913889",
+            "originalId": "1698810145078965:1913922",
+            "publicId": "1698810145371658:1914339",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810145062363:1913891",
+            "name": "Files/File_1698810145061227_1913889",
+            "flags": 1
+        }
+    },
+    "1698810145078965:1913922": {
+        "IFileManager": {
+            "path": "Files/File_1698810145078965_1913922.lsmat"
+        }
+    },
+    "1698810145371658:1914339": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Materials2/Color_C05 Graph.lsmat",
+                "hash": "65ace30ace6737df9861aaed86665764"
+            }
+        }
+    }
+}

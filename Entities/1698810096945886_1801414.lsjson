@@ -1,0 +1,22 @@
+{
+    "1698810096944930:1801172": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_Wassets/Materials0"
+            }
+        }
+    },
+    "1698810096945886:1801414": {
+        "IResourceController": {
+            "name": "Materials0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944930:1801172",
+            "resources": [
+                "1698810154120258:1927366"
+            ]
+        }
+    }
+}

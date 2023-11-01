@@ -1,0 +1,40 @@
+{
+    "1698810096943608:1799911": {
+        "IResourceController": {
+            "name": "confetti",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914652876:442641",
+            "fileId": "1698810096944684:1800782",
+            "originalId": "1698810096944685:1800783",
+            "publicId": "1698810096944964:1801296",
+            "expected_hash": "be217bc72077521f4a38b60159d04b97"
+        },
+        "IResourceManager": {
+            "uid": "1634428914652876:442641",
+            "name": "Files/File_1698810096944684_1800782",
+            "flags": 1
+        }
+    },
+    "1698810096944684:1800782": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944684_1800782"
+        }
+    },
+    "1698810096944685:1800783": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944685_1800783"
+        }
+    },
+    "1698810096944964:1801296": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Textures/confetti",
+                "hash": "be217bc72077521f4a38b60159d04b97",
+                "complexResourceHash": "f7476b1b020e5cbababa1b42d34838e8"
+            }
+        }
+    }
+}

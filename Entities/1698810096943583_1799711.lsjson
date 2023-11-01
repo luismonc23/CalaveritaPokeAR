@@ -1,0 +1,79 @@
+{
+    "1633837577088662:1321053": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "aa85689e6973cbb1e98d76413bfb2a78"
+                    },
+                    "v": "1698810096944214:1800324"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "282752",
+                "compressedSize": "66256",
+                "extension": "png",
+                "originalRAM": "2250000",
+                "originalSize": "150863",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944212:1800322"
+        }
+    },
+    "1698810096943583:1799711": {
+        "IResourceController": {
+            "name": "Untitled design (2)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837577088662:1321053",
+            "fileId": "1698810096944211:1800320",
+            "originalId": "1698810096944211:1800321",
+            "publicId": "1698810096944922:1801129",
+            "expected_hash": "5ebb728afa40dbc41c63b7a46ebdc1aa",
+            "additional": {
+                "originHash": "aa85689e6973cbb1e98d76413bfb2a78"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633837577088662:1321053",
+            "name": "Files/File712.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944211:1800320": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944211_1800320.pvr"
+        }
+    },
+    "1698810096944211:1800321": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944211_1800321.png"
+        }
+    },
+    "1698810096944212:1800322": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944212_1800322.png"
+        }
+    },
+    "1698810096944214:1800324": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944214_1800324.pvr"
+        }
+    },
+    "1698810096944922:1801129": {
+        "IResourceController": {
+            "public": {
+                "path": "Untitled design (2).png",
+                "hash": "aa85689e6973cbb1e98d76413bfb2a78"
+            }
+        }
+    }
+}

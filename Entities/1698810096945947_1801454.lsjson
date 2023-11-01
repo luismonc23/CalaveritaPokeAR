@@ -1,0 +1,25 @@
+{
+    "1698810096944963:1801292": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Meshes/giftbox/Animations"
+            }
+        }
+    },
+    "1698810096945947:1801454": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944963:1801292",
+            "resources": [
+                "1698810096943607:1799905",
+                "1698810096943607:1799906",
+                "1698810096943607:1799907",
+                "1698810096943607:1799908"
+            ]
+        }
+    }
+}

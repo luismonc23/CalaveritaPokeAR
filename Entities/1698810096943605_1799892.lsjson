@@ -1,0 +1,42 @@
+{
+    "1698810096943605:1799892": {
+        "IResourceController": {
+            "name": "confetti_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1634428898257534:430388",
+            "fileId": "1698810096944653:1800751",
+            "originalId": "1698810096944654:1800752",
+            "publicId": "1698810096944959:1801277",
+            "expected_hash": "52cb23775aa069b372f42c5153983d44",
+            "resources": [
+                "1698810096945940:1801448"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1634428898257534:430388",
+            "name": "Files/File_1698810096944653_1800751",
+            "flags": 1
+        }
+    },
+    "1698810096944653:1800751": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944653_1800751"
+        }
+    },
+    "1698810096944654:1800752": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944654_1800752.lsvfx"
+        }
+    },
+    "1698810096944959:1801277": {
+        "IResourceController": {
+            "public": {
+                "path": "Confetti VFX Resources/VFX/confetti_vfx.lsvfx",
+                "hash": "97ba24bd847f27f84c6a6463ac849303"
+            }
+        }
+    }
+}

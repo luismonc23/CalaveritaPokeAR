@@ -1,0 +1,39 @@
+{
+    "1698810168789408:1949659": {
+        "IFileManager": {
+            "path": "Files/File_1698810168789408_1949659"
+        }
+    },
+    "1698810168790227:1949660": {
+        "IResourceController": {
+            "name": "material21 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810168790231:1949661",
+            "fileId": "1698810168789408:1949659",
+            "originalId": "1698810168807847:1949696",
+            "publicId": "1698810169102804:1950106",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810168790231:1949661",
+            "name": "Files/File_1698810168789408_1949659",
+            "flags": 1
+        }
+    },
+    "1698810168807847:1949696": {
+        "IFileManager": {
+            "path": "Files/File_1698810168807847_1949696.lsmat"
+        }
+    },
+    "1698810169102804:1950106": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/cesta/Materials/material21 Graph.lsmat",
+                "hash": "ad0948d897c81171e1267be0d2998186"
+            }
+        }
+    }
+}

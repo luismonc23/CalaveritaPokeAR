@@ -1,0 +1,39 @@
+{
+    "1698810143479307:1911474": {
+        "IFileManager": {
+            "path": "Files/File_1698810143479307_1911474"
+        }
+    },
+    "1698810143479877:1911475": {
+        "IResourceController": {
+            "name": "Wood_Floor_Light Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810143479880:1911476",
+            "fileId": "1698810143479307:1911474",
+            "originalId": "1698810143493977:1911482",
+            "publicId": "1698810143786032:1911922",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810143479880:1911476",
+            "name": "Files/File_1698810143479307_1911474",
+            "flags": 1
+        }
+    },
+    "1698810143493977:1911482": {
+        "IFileManager": {
+            "path": "Files/File_1698810143493977_1911482.lsmat"
+        }
+    },
+    "1698810143786032:1911922": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Materials2/Wood_Floor_Light Graph.lsmat",
+                "hash": "049ae12479c8cf1fb8f1129b1868320e"
+            }
+        }
+    }
+}

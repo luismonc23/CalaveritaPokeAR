@@ -1,0 +1,79 @@
+{
+    "1589933775299439:183501": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "80e4140124c8b1d220084f0f7a49e855"
+                    },
+                    "v": "1698810096944242:1800353"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1000000",
+                "compressedSize": "246934",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "425363",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810096944241:1800352"
+        }
+    },
+    "1698810096943569:1799599": {
+        "IResourceController": {
+            "name": "ice_cartoon_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1589933775299439:183501",
+            "fileId": "1698810096943959:1800056",
+            "originalId": "1698810096943960:1800057",
+            "publicId": "1698810096944871:1800928",
+            "expected_hash": "4a42af5c1ddecba62932ba55259da93a",
+            "additional": {
+                "originHash": "80e4140124c8b1d220084f0f7a49e855"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1589933775299439:183501",
+            "name": "Files/File262.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943959:1800056": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943959_1800056.png"
+        }
+    },
+    "1698810096943960:1800057": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943960_1800057.png"
+        }
+    },
+    "1698810096944241:1800352": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944241_1800352.png"
+        }
+    },
+    "1698810096944242:1800353": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944242_1800353.png"
+        }
+    },
+    "1698810096944871:1800928": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Advanced Ground Examples/ice_cartoon_base.png",
+                "hash": "80e4140124c8b1d220084f0f7a49e855"
+            }
+        }
+    }
+}

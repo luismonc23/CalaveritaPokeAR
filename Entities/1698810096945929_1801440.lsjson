@@ -1,0 +1,23 @@
+{
+    "1698810096944954:1801253": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/cesta/Materials"
+            }
+        }
+    },
+    "1698810096945929:1801440": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944954:1801253",
+            "resources": [
+                "1698810168790227:1949660",
+                "1698810169190450:1950228"
+            ]
+        }
+    }
+}

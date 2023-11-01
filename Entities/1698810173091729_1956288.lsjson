@@ -1,0 +1,39 @@
+{
+    "1698810173091158:1956285": {
+        "IFileManager": {
+            "path": "Files/File_1698810173091158_1956285"
+        }
+    },
+    "1698810173091729:1956288": {
+        "IResourceController": {
+            "name": "octopus_materials Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810173091733:1956289",
+            "fileId": "1698810173091158:1956285",
+            "originalId": "1698810173106351:1956303",
+            "publicId": "1698810173405944:1956791",
+            "expected_hash": "c3d9081c136ae3d610116b83f486c6bb"
+        },
+        "IResourceManager": {
+            "uid": "1698810173091733:1956289",
+            "name": "Files/File_1698810173091158_1956285",
+            "flags": 1
+        }
+    },
+    "1698810173106351:1956303": {
+        "IFileManager": {
+            "path": "Files/File_1698810173106351_1956303.lsmat"
+        }
+    },
+    "1698810173405944:1956791": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example/Materials/octopus_materials Graph.lsmat",
+                "hash": "5a0ac355af5d3f5e707bf208de1161cb"
+            }
+        }
+    }
+}

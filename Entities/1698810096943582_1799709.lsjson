@@ -1,0 +1,40 @@
+{
+    "1698810096943582:1799709": {
+        "IResourceController": {
+            "name": "output-onlinegiftools (5)",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837576870364:1321021",
+            "fileId": "1698810096944208:1800317",
+            "originalId": "1698810096944209:1800318",
+            "publicId": "1698810096944922:1801127",
+            "expected_hash": "d8be68ab1c8cc0a63e0425daecfa3b4a"
+        },
+        "IResourceManager": {
+            "uid": "1633837576870364:1321021",
+            "name": "Files/File_1698810096944208_1800317",
+            "flags": 1
+        }
+    },
+    "1698810096944208:1800317": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944208_1800317"
+        }
+    },
+    "1698810096944209:1800318": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944209_1800318"
+        }
+    },
+    "1698810096944922:1801127": {
+        "IResourceController": {
+            "public": {
+                "path": "output-onlinegiftools (5)",
+                "hash": "d8be68ab1c8cc0a63e0425daecfa3b4a",
+                "complexResourceHash": "9319d2d07739991c78323c5f9e6c8823"
+            }
+        }
+    }
+}

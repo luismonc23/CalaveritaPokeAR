@@ -1,0 +1,39 @@
+{
+    "1698810096943587:1799745": {
+        "IResourceController": {
+            "name": "vela",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633904474421030:855288",
+            "fileId": "1698810096944313:1800418",
+            "originalId": "1698810096944313:1800419",
+            "publicId": "1698810096944927:1801156",
+            "expected_hash": "d5ef3064cd4faea8a803e0e2e3dccf7a"
+        },
+        "IResourceManager": {
+            "uid": "1633904474421030:855288",
+            "name": "Files/File_1698810096944313_1800418",
+            "flags": 1
+        }
+    },
+    "1698810096944313:1800418": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944313_1800418"
+        }
+    },
+    "1698810096944313:1800419": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944313_1800419.gif"
+        }
+    },
+    "1698810096944927:1801156": {
+        "IResourceController": {
+            "public": {
+                "path": "vela.gif",
+                "hash": "46fdc27b6623c4f6e9ad2454c496e6da"
+            }
+        }
+    }
+}

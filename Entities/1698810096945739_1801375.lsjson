@@ -1,0 +1,23 @@
+{
+    "1698810096944866:1800903": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/ML"
+            }
+        }
+    },
+    "1698810096945739:1801375": {
+        "IResourceController": {
+            "name": "ML",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944866:1800903",
+            "resources": [
+                "1698810096943564:1799554",
+                "1698810096943570:1799601"
+            ]
+        }
+    }
+}

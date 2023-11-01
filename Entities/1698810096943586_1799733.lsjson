@@ -1,0 +1,79 @@
+{
+    "1633841116701764:2717166": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3266cd2ea505cdbb97c9cda14f83654b"
+                    },
+                    "v": "1698810096944278:1800381"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "85235",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "218885",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944277:1800380"
+        }
+    },
+    "1698810096943586:1799733": {
+        "IResourceController": {
+            "name": "DisplacementMap",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633841116701764:2717166",
+            "fileId": "1698810096944275:1800378",
+            "originalId": "1698810096944276:1800379",
+            "publicId": "1698810096944925:1801144",
+            "expected_hash": "474fcfa43c0f7ac429076ddfaa8c02a0",
+            "additional": {
+                "originHash": "3266cd2ea505cdbb97c9cda14f83654b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633841116701764:2717166",
+            "name": "Files/File782.png",
+            "flags": 1
+        }
+    },
+    "1698810096944275:1800378": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944275_1800378.pvr"
+        }
+    },
+    "1698810096944276:1800379": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944276_1800379.png"
+        }
+    },
+    "1698810096944277:1800380": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944277_1800380.png"
+        }
+    },
+    "1698810096944278:1800381": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944278_1800381.pvr"
+        }
+    },
+    "1698810096944925:1801144": {
+        "IResourceController": {
+            "public": {
+                "path": "DisplacementMap.png",
+                "hash": "3266cd2ea505cdbb97c9cda14f83654b"
+            }
+        }
+    }
+}

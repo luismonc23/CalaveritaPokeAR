@@ -1,0 +1,33 @@
+{
+    "1698810096943612:1799958": {
+        "IResourceController": {
+            "name": "sound",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634525657447221:106931",
+            "fileId": "1698810096944786:1800887",
+            "publicId": "1698810096944974:1801344",
+            "expected_hash": "79516b5109c817ed8c77a0eb60414f6b"
+        },
+        "IResourceManager": {
+            "uid": "1634525657447221:106931",
+            "name": "Files/File_1698810096944786_1800887.wav",
+            "flags": 1
+        }
+    },
+    "1698810096944786:1800887": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944786_1800887.wav"
+        }
+    },
+    "1698810096944974:1801344": {
+        "IResourceController": {
+            "public": {
+                "path": "sound.wav",
+                "hash": "79516b5109c817ed8c77a0eb60414f6b"
+            }
+        }
+    }
+}

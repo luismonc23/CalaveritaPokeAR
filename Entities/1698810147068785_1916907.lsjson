@@ -1,0 +1,39 @@
+{
+    "1698810147068240:1916906": {
+        "IFileManager": {
+            "path": "Files/File_1698810147068240_1916906"
+        }
+    },
+    "1698810147068785:1916907": {
+        "IResourceController": {
+            "name": "Ceramic 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810147068788:1916908",
+            "fileId": "1698810147068240:1916906",
+            "originalId": "1698810147083692:1916933",
+            "publicId": "1698810147386501:1917356",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810147068788:1916908",
+            "name": "Files/File_1698810147068240_1916906",
+            "flags": 1
+        }
+    },
+    "1698810147083692:1916933": {
+        "IFileManager": {
+            "path": "Files/File_1698810147083692_1916933.lsmat"
+        }
+    },
+    "1698810147386501:1917356": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Materials2/Ceramic 2 Graph.lsmat",
+                "hash": "86e6bbc0528b513c6330769b9f5a1435"
+            }
+        }
+    }
+}

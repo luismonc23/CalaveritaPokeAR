@@ -1,0 +1,39 @@
+{
+    "1698810141183234:1907937": {
+        "IFileManager": {
+            "path": "Files/File_1698810141183234_1907937"
+        }
+    },
+    "1698810141184049:1907946": {
+        "IResourceController": {
+            "name": "white_mat Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810141184055:1907947",
+            "fileId": "1698810141183234:1907937",
+            "originalId": "1698810141198572:1907968",
+            "publicId": "1698810141474568:1908370",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810141184055:1907947",
+            "name": "Files/File_1698810141183234_1907937",
+            "flags": 1
+        }
+    },
+    "1698810141198572:1907968": {
+        "IFileManager": {
+            "path": "Files/File_1698810141198572_1907968.lsmat"
+        }
+    },
+    "1698810141474568:1908370": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Materials2/white_mat Graph.lsmat",
+                "hash": "63d32a52ecca6d0153ba7bbd2ba218df"
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "1634428914056812:442460": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "121344",
+                "compressedSize": "45119",
+                "extension": "mesh",
+                "originalRAM": "121344",
+                "originalSize": "45119",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108802584:1873979"
+        }
+    },
+    "1698810096943606:1799902": {
+        "IResourceController": {
+            "name": "temp_box_bt 2",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914056812:442460",
+            "fileId": "1698810096944673:1800772",
+            "originalId": "1698810096944674:1800773",
+            "publicId": "1698810096944962:1801289",
+            "expected_hash": "db1f615865abb95823acc229ab9703c8"
+        },
+        "IResourceManager": {
+            "uid": "1634428914056812:442460",
+            "name": "Files/File_1698810096944673_1800772.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096944673:1800772": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944673_1800772.mesh"
+        }
+    },
+    "1698810096944674:1800773": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944674_1800773.mesh"
+        }
+    },
+    "1698810096944962:1801289": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Meshes/giftbox/Meshes/temp_box_bt 2.mesh",
+                "hash": "db1f615865abb95823acc229ab9703c8"
+            }
+        }
+    },
+    "1698810108802584:1873979": {
+        "IFileManager": {
+            "path": "Files/File_1698810108802584_1873979.mesh"
+        }
+    }
+}

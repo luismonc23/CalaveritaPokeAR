@@ -1,0 +1,79 @@
+{
+    "1588799474323788:126014": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "d03df050d5cf9e20a2df513b5ee67d3e"
+                    },
+                    "v": "1698810096944007:1800105"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "105744",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "105744",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810096944004:1800102"
+        }
+    },
+    "1698810096943568:1799586": {
+        "IResourceController": {
+            "name": "ice_realistic_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588799474323788:126014",
+            "fileId": "1698810096943940:1800034",
+            "originalId": "1698810096943941:1800035",
+            "publicId": "1698810096944872:1800930",
+            "expected_hash": "d03df050d5cf9e20a2df513b5ee67d3e",
+            "additional": {
+                "originHash": "d03df050d5cf9e20a2df513b5ee67d3e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588799474323788:126014",
+            "name": "Files/File_1698810096943940_1800034.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943940:1800034": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943940_1800034.jpg"
+        }
+    },
+    "1698810096943941:1800035": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943941_1800035.jpg"
+        }
+    },
+    "1698810096944004:1800102": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944004_1800102.jpg"
+        }
+    },
+    "1698810096944007:1800105": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944007_1800105.jpg"
+        }
+    },
+    "1698810096944872:1800930": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Advanced Ground Examples/ice_realistic_base.jpg",
+                "hash": "d03df050d5cf9e20a2df513b5ee67d3e"
+            }
+        }
+    }
+}

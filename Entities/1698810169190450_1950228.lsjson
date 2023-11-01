@@ -1,0 +1,39 @@
+{
+    "1698810169188873:1950227": {
+        "IFileManager": {
+            "path": "Files/File_1698810169188873_1950227"
+        }
+    },
+    "1698810169190450:1950228": {
+        "IResourceController": {
+            "name": "Basket_01 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810169190455:1950229",
+            "fileId": "1698810169188873:1950227",
+            "originalId": "1698810169206419:1950265",
+            "publicId": "1698810169490902:1950747",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810169190455:1950229",
+            "name": "Files/File_1698810169188873_1950227",
+            "flags": 1
+        }
+    },
+    "1698810169206419:1950265": {
+        "IFileManager": {
+            "path": "Files/File_1698810169206419_1950265.lsmat"
+        }
+    },
+    "1698810169490902:1950747": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/cesta/Materials/Basket_01 Graph.lsmat",
+                "hash": "2e572b784121dddc7785206ff9f41b9a"
+            }
+        }
+    }
+}

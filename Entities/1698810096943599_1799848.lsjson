@@ -1,0 +1,85 @@
+{
+    "1634263267300548:470053": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "22176",
+                "compressedSize": "16344",
+                "extension": "mesh",
+                "originalRAM": "22176",
+                "originalSize": "16344",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108763717:1873955"
+        }
+    },
+    "1698810096943599:1799848": {
+        "IResourceController": {
+            "name": "revolvedSurface1 6",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634263267300548:470053",
+            "fileId": "1698810096944547:1800649",
+            "originalId": "1698810096944547:1800650",
+            "expected_hash": "24fdadd76af69ea1c5d08e085230b17c"
+        },
+        "IResourceManager": {
+            "uid": "1634263267300548:470053",
+            "name": "Files/File_1698810096944547_1800649.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096944547:1800649": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944547_1800649.mesh"
+        }
+    },
+    "1698810096944547:1800650": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944547_1800650.mesh"
+        }
+    },
+    "1698810108763717:1873955": {
+        "IFileManager": {
+            "path": "Files/File_1698810108763717_1873955.mesh"
+        }
+    }
+}

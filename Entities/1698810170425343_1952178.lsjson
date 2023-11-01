@@ -1,0 +1,39 @@
+{
+    "1698810170424762:1952175": {
+        "IFileManager": {
+            "path": "Files/File_1698810170424762_1952175"
+        }
+    },
+    "1698810170425343:1952178": {
+        "IResourceController": {
+            "name": "greenmat Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810170425346:1952179",
+            "fileId": "1698810170424762:1952175",
+            "originalId": "1698810170439528:1952197",
+            "publicId": "1698810170753281:1952638",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810170425346:1952179",
+            "name": "Files/File_1698810170424762_1952175",
+            "flags": 1
+        }
+    },
+    "1698810170439528:1952197": {
+        "IFileManager": {
+            "path": "Files/File_1698810170439528_1952197.lsmat"
+        }
+    },
+    "1698810170753281:1952638": {
+        "IResourceController": {
+            "public": {
+                "path": "greenmat Graph.lsmat",
+                "hash": "827c251e3f292d01555987397fd45b93"
+            }
+        }
+    }
+}

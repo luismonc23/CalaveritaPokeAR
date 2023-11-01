@@ -1,0 +1,39 @@
+{
+    "1698810160408621:1936804": {
+        "IFileManager": {
+            "path": "Files/File_1698810160408621_1936804"
+        }
+    },
+    "1698810160409181:1936805": {
+        "IResourceController": {
+            "name": "emptymat 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810160409183:1936806",
+            "fileId": "1698810160408621:1936804",
+            "originalId": "1698810160423929:1936837",
+            "publicId": "1698810160589160:1937064",
+            "expected_hash": "b313f60e0a026fe82533f93e710f1845"
+        },
+        "IResourceManager": {
+            "uid": "1698810160409183:1936806",
+            "name": "Files/File_1698810160408621_1936804",
+            "flags": 1
+        }
+    },
+    "1698810160423929:1936837": {
+        "IFileManager": {
+            "path": "Files/File_1698810160423929_1936837.lsmat"
+        }
+    },
+    "1698810160589160:1937064": {
+        "IResourceController": {
+            "public": {
+                "path": "emptymat 2 Graph.lsmat",
+                "hash": "0fc02709110ad77009c782eea8fb300a"
+            }
+        }
+    }
+}

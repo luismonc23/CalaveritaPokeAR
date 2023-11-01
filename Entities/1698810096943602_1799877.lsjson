@@ -1,0 +1,30 @@
+{
+    "1698810096943602:1799877": {
+        "IResourceController": {
+            "name": "topmesa",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634351081535265:3647822",
+            "fileId": "1698810096944607:1800711",
+            "originalId": "1698810096944609:1800713",
+            "expected_hash": "4a0ff61d9ed2d1da6b73aba260ddc0ff"
+        },
+        "IResourceManager": {
+            "uid": "1634351081535265:3647822",
+            "name": "topmesa",
+            "flags": 0
+        }
+    },
+    "1698810096944607:1800711": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944607_1800711.oprfb"
+        }
+    },
+    "1698810096944609:1800713": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944609_1800713.oprfb"
+        }
+    }
+}

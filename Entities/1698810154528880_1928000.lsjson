@@ -1,0 +1,39 @@
+{
+    "1698810154528116:1927999": {
+        "IFileManager": {
+            "path": "Files/File_1698810154528116_1927999"
+        }
+    },
+    "1698810154528880:1928000": {
+        "IResourceController": {
+            "name": "_auto_ Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810154528882:1928001",
+            "fileId": "1698810154528116:1927999",
+            "originalId": "1698810154547129:1928034",
+            "publicId": "1698810154842576:1928451",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810154528882:1928001",
+            "name": "Files/File_1698810154528116_1927999",
+            "flags": 1
+        }
+    },
+    "1698810154547129:1928034": {
+        "IFileManager": {
+            "path": "Files/File_1698810154547129_1928034.lsmat"
+        }
+    },
+    "1698810154842576:1928451": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_Wassets_bk/Materials0/_auto_ Graph.lsmat",
+                "hash": "5d1f0d700c36e75ded6e7c594f6fc97c"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "1633904967672892:953016": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ba7555bd9e3b6e6adf03422a5e2bedc1"
+                    },
+                    "v": "1698810096944321:1800427"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "112896",
+                "compressedSize": "28900",
+                "extension": "t3d",
+                "originalRAM": "903168",
+                "originalSize": "91949",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944320:1800426"
+        }
+    },
+    "1698810096943588:1799747": {
+        "IResourceController": {
+            "name": "vela 2",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633904967672892:953016",
+            "fileId": "1698810096944318:1800424",
+            "originalId": "1698810096944319:1800425",
+            "publicId": "1698810096944928:1801158",
+            "expected_hash": "257299a2077e73a08c0e584dd75cc6ed"
+        },
+        "IResourceManager": {
+            "uid": "1633904967672892:953016",
+            "name": "Files/File_1698810096944318_1800424",
+            "flags": 1
+        }
+    },
+    "1698810096944318:1800424": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944318_1800424"
+        }
+    },
+    "1698810096944319:1800425": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944319_1800425.gif"
+        }
+    },
+    "1698810096944320:1800426": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944320_1800426"
+        }
+    },
+    "1698810096944321:1800427": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944321_1800427"
+        }
+    },
+    "1698810096944928:1801158": {
+        "IResourceController": {
+            "public": {
+                "path": "vela 2.gif",
+                "hash": "ca18fde9e4c508f0bfddaf16d8a83d4b"
+            }
+        }
+    }
+}

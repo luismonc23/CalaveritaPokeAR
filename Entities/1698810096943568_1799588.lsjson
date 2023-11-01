@@ -1,0 +1,39 @@
+{
+    "1698810096943568:1799588": {
+        "IResourceController": {
+            "name": "Occluded Unlit Ground [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588813361176843:131102",
+            "fileId": "1698810096943943:1800038",
+            "originalId": "1698810096943944:1800039",
+            "publicId": "1698810096944889:1800985",
+            "expected_hash": "6229a0a273addb803871290ebcb971fc"
+        },
+        "IResourceManager": {
+            "uid": "1588813361176843:131102",
+            "name": "Files/File_1698810096943943_1800038",
+            "flags": 1
+        }
+    },
+    "1698810096943943:1800038": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943943_1800038"
+        }
+    },
+    "1698810096943944:1800039": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943944_1800039.lsmat"
+        }
+    },
+    "1698810096944889:1800985": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Occluded Unlit Ground [DUPLICATE_ME].lsmat",
+                "hash": "5e0af43a1a924062a676e39bbc7b7223"
+            }
+        }
+    }
+}

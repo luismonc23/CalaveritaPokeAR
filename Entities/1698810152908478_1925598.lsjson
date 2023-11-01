@@ -1,0 +1,39 @@
+{
+    "1698810152907878:1925597": {
+        "IFileManager": {
+            "path": "Files/File_1698810152907878_1925597"
+        }
+    },
+    "1698810152908478:1925598": {
+        "IResourceController": {
+            "name": "velamat 4 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810152908480:1925599",
+            "fileId": "1698810152907878:1925597",
+            "originalId": "1698810152924092:1925605",
+            "publicId": "1698810153229528:1926045",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810152908480:1925599",
+            "name": "Files/File_1698810152907878_1925597",
+            "flags": 1
+        }
+    },
+    "1698810152924092:1925605": {
+        "IFileManager": {
+            "path": "Files/File_1698810152924092_1925605.lsmat"
+        }
+    },
+    "1698810153229528:1926045": {
+        "IResourceController": {
+            "public": {
+                "path": "velamat 4 Graph.lsmat",
+                "hash": "aa9e25f0f2863bdda65787b067a83d54"
+            }
+        }
+    }
+}

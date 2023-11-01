@@ -1,0 +1,79 @@
+{
+    "1634186304232746:3656727": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a6e321bed066b22e0e725b65c13f0a6a"
+                    },
+                    "v": "1698810096944444:1800545"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "320000",
+                "compressedSize": "6116",
+                "extension": "png",
+                "originalRAM": "2560000",
+                "originalSize": "9940",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944440:1800540"
+        }
+    },
+    "1698810096943593:1799795": {
+        "IResourceController": {
+            "name": "info_card",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186304232746:3656727",
+            "fileId": "1698810096944438:1800538",
+            "originalId": "1698810096944439:1800539",
+            "publicId": "1698810096944943:1801202",
+            "expected_hash": "355216e2aeff3b964c151e20c2759aa7",
+            "additional": {
+                "originHash": "a6e321bed066b22e0e725b65c13f0a6a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634186304232746:3656727",
+            "name": "Files/File1043.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944438:1800538": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944438_1800538.pvr"
+        }
+    },
+    "1698810096944439:1800539": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944439_1800539.png"
+        }
+    },
+    "1698810096944440:1800540": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944440_1800540.png"
+        }
+    },
+    "1698810096944444:1800545": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944444_1800545.pvr"
+        }
+    },
+    "1698810096944943:1801202": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Info Card [DELETE_ME]/Textures/info_card.png",
+                "hash": "a6e321bed066b22e0e725b65c13f0a6a"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1698810096944885:1800968": {
+        "IResourceController": {
+            "public": {
+                "path": "ParticleResources/Textures"
+            }
+        }
+    },
+    "1698810096945804:1801389": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944885:1800968",
+            "resources": [
+                "1698810096943565:1799564"
+            ]
+        }
+    }
+}

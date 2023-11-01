@@ -1,0 +1,39 @@
+{
+    "1698810096943592:1799786": {
+        "IResourceController": {
+            "name": "Refraction",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634184511863017:3213690",
+            "fileId": "1698810096944420:1800520",
+            "originalId": "1698810096944421:1800521",
+            "publicId": "1698810096944934:1801188",
+            "expected_hash": "1b8284542c3c6626ec954cd23b228145"
+        },
+        "IResourceManager": {
+            "uid": "1634184511863017:3213690",
+            "name": "Files/File_1698810096944420_1800520",
+            "flags": 1
+        }
+    },
+    "1698810096944420:1800520": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944420_1800520"
+        }
+    },
+    "1698810096944421:1800521": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944421_1800521.lsmat"
+        }
+    },
+    "1698810096944934:1801188": {
+        "IResourceController": {
+            "public": {
+                "path": "Refraction.lsmat",
+                "hash": "08972d425eb54cdcf5b745ac797fe064"
+            }
+        }
+    }
+}

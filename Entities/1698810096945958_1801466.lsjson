@@ -1,0 +1,23 @@
+{
+    "1698810096944967:1801312": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]/Spawn Example"
+            }
+        }
+    },
+    "1698810096945958:1801466": {
+        "IResourceController": {
+            "name": "Spawn Example",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944967:1801312",
+            "resources": [
+                "1698810096943609:1799920",
+                "1698810096943610:1799937"
+            ]
+        }
+    }
+}

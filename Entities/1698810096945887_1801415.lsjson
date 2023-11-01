@@ -1,0 +1,22 @@
+{
+    "1698810096944931:1801174": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_Wassets/Meshes_10"
+            }
+        }
+    },
+    "1698810096945887:1801415": {
+        "IResourceController": {
+            "name": "Meshes_10",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944931:1801174",
+            "resources": [
+                "1698810096943597:1799834"
+            ]
+        }
+    }
+}

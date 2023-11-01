@@ -1,0 +1,39 @@
+{
+    "1698810167573746:1947880": {
+        "IFileManager": {
+            "path": "Files/File_1698810167573746_1947880"
+        }
+    },
+    "1698810167574298:1947883": {
+        "IResourceController": {
+            "name": "Color_E05 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810167574301:1947884",
+            "fileId": "1698810167573746:1947880",
+            "originalId": "1698810167587197:1947895",
+            "publicId": "1698810167887338:1948314",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810167574301:1947884",
+            "name": "Files/File_1698810167573746_1947880",
+            "flags": 1
+        }
+    },
+    "1698810167587197:1947895": {
+        "IFileManager": {
+            "path": "Files/File_1698810167587197_1947895.lsmat"
+        }
+    },
+    "1698810167887338:1948314": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Materials0/Color_E05 Graph.lsmat",
+                "hash": "9569dfa596cd432238cff4ceb705290c"
+            }
+        }
+    }
+}

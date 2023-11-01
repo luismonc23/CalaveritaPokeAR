@@ -1,0 +1,42 @@
+{
+    "1698810096943568:1799584": {
+        "IResourceController": {
+            "name": "placeholder_segmentation_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792308053489:27288",
+            "fileId": "1698810096943937:1800030",
+            "originalId": "1698810096943938:1800031",
+            "publicId": "1698810096944867:1800906",
+            "expected_hash": "01dd5950ecfc6d8dba1c68c17b3dc5a0",
+            "additional": {
+                "originHash": "01dd5950ecfc6d8dba1c68c17b3dc5a0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792308053489:27288",
+            "name": "Files/File112.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943937:1800030": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943937_1800030.png"
+        }
+    },
+    "1698810096943938:1800031": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943938_1800031.png"
+        }
+    },
+    "1698810096944867:1800906": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/placeholder_segmentation_texture.png",
+                "hash": "01dd5950ecfc6d8dba1c68c17b3dc5a0"
+            }
+        }
+    }
+}

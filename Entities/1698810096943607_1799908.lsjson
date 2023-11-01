@@ -1,0 +1,17 @@
+{
+    "1698810096943607:1799908": {
+        "IResourceController": {
+            "name": "temp_envelope 2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914349689:442583"
+        },
+        "IResourceManager": {
+            "uid": "1634428914349689:442583",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

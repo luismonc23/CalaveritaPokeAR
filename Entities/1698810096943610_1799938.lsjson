@@ -1,0 +1,30 @@
+{
+    "1698810096943610:1799938": {
+        "IResourceController": {
+            "name": "Rendering",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1634445599094095:4495902",
+            "fileId": "1698810096944736:1800835",
+            "originalId": "1698810096944737:1800836",
+            "expected_hash": "6128d05a1e1bea512a2c1f489d85561a"
+        },
+        "IResourceManager": {
+            "uid": "1634445599094095:4495902",
+            "name": "Files/File_1698810096944736_1800835",
+            "flags": 1
+        }
+    },
+    "1698810096944736:1800835": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944736_1800835"
+        }
+    },
+    "1698810096944737:1800836": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944737_1800836.lsmat"
+        }
+    }
+}

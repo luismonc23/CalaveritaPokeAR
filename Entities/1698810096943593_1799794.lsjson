@@ -1,0 +1,38 @@
+{
+    "1634186304134657:3656664": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943593:1799794": {
+        "IResourceController": {
+            "name": "DoubleSidedRenderer",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186304134657:3656664",
+            "fileId": "1698810096944437:1800537",
+            "publicId": "1698810096944942:1801199",
+            "expected_hash": "596ffd9993d009b9ac0a422d8bae85b6"
+        },
+        "IResourceManager": {
+            "uid": "1634186304134657:3656664",
+            "name": "Files/File_1698810096944437_1800537.js",
+            "flags": 1
+        }
+    },
+    "1698810096944437:1800537": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944437_1800537.js"
+        }
+    },
+    "1698810096944942:1801199": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Script/DoubleSidedRenderer.js",
+                "hash": "596ffd9993d009b9ac0a422d8bae85b6"
+            }
+        }
+    }
+}

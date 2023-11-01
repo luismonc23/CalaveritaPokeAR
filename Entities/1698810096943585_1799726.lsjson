@@ -1,0 +1,33 @@
+{
+    "1698810096943585:1799726": {
+        "IResourceController": {
+            "name": "270305__littlerobotsoundfactory__climb-rope-loop-00 4",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837618292340:1371263",
+            "fileId": "1698810096944232:1800343",
+            "publicId": "1698810096944924:1801137",
+            "expected_hash": "6db925b8a933a53ed2a0f458a8c1af33"
+        },
+        "IResourceManager": {
+            "uid": "1633837618292340:1371263",
+            "name": "Files/File735.mp3",
+            "flags": 1
+        }
+    },
+    "1698810096944232:1800343": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944232_1800343.wav"
+        }
+    },
+    "1698810096944924:1801137": {
+        "IResourceController": {
+            "public": {
+                "path": "270305__littlerobotsoundfactory__climb-rope-loop-00 4.wav",
+                "hash": "6db925b8a933a53ed2a0f458a8c1af33"
+            }
+        }
+    }
+}

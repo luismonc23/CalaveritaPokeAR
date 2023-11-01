@@ -1,0 +1,3717 @@
+{
+    "1589934433032485:49127": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedSize": "872437",
+                "extension": "dnn",
+                "originalSize": "872437",
+                "settings": {
+                    "isCompressed": "false"
+                }
+            },
+            "uncompressed_file": "1698810096943964:1800062"
+        }
+    },
+    "1698810096943570:1799601": {
+        "IResourceController": {
+            "name": "ground_segmentation_model",
+            "type": 22,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1589934433032485:49127",
+            "fileId": "1698810096943962:1800060",
+            "originalId": "1698810096943963:1800061",
+            "publicId": "1698810096944867:1800904",
+            "expected_hash": "f619838c3203487d0aee1c6a9b5082bb",
+            "additional": {
+                "compatibility_data": [
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "440",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "441",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "442",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "443",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "444",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "445",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "446",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "447",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "448",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "449",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "450",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "451",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "452",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "453",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "454",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "455",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "456",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "457",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "458",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "459",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "460",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "461",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "462",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "463",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "464",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "465",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "466",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "467",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "468",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "469",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "470",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "471",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "472",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "473",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "474",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "475",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "476",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "477",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "478",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "479",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "480",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "481",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "482",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "483",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "484",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "485",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "486",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "487",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "488",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "489",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "490",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "491",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "492",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "493",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "494",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "495",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "496",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "497",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "498",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "499",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "500",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "501",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "502",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "503",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "504",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "505",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "506",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "507",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "508",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "509",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "510",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "511",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "512",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "513",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "514",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "515",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "516",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "517",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "518",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "519",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "520",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "521",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "522",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "523",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "524",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "525",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "526",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "527",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "528",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "529",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "530",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "531",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "532",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "533",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "534",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "535",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "536",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "537",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "538",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "539",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "540",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "541",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "542",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "543",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "544",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "545",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "546",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "547",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "548",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "549",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "550",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "551",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "552",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "553",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "554",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "555",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "556",
+                        "layerType": "pool"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "557",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "558",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "559",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "560",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "561",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "562",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "563",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "564",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "565",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "566",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "567",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "568",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "569",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "570",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "571",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "572",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "573",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "574",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "575",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "576",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "577",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "578",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "579",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "580",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "581",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "582",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "583",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "584",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "585",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "586",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "588",
+                        "layerType": "resize"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "589",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "590",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "591",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "592",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "593",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "594",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "595",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "596",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "598",
+                        "layerType": "resize"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "599",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "600",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "601",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "602",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "603",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "604",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "605",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "606",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "608",
+                        "layerType": "resize"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "609",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "610",
+                        "layerType": "relu"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "611",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "612",
+                        "layerType": "eltwise"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "613",
+                        "layerType": "softmax"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "614",
+                        "layerType": "conv"
+                    },
+                    {
+                        "compatibilityInfos": [
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "1"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "2"
+                            },
+                            {
+                                "info": "",
+                                "isCompatible": "true",
+                                "type": "8"
+                            }
+                        ],
+                        "layerName": "output_0",
+                        "layerType": "linear"
+                    }
+                ],
+                "normalization_data": {
+                    "data": {
+                        "bias": [
+                            "0",
+                            "0",
+                            "0"
+                        ],
+                        "scale": [
+                            "1",
+                            "1",
+                            "1"
+                        ]
+                    },
+                    "output_0": {
+                        "bias": [
+                            "0"
+                        ],
+                        "scale": [
+                            "1"
+                        ]
+                    }
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1589934433032485:49127",
+            "name": "Files/File_1698810096943962_1800060.dnn",
+            "flags": 1
+        }
+    },
+    "1698810096943962:1800060": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943962_1800060.dnn"
+        }
+    },
+    "1698810096943963:1800061": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943963_1800061.dnn"
+        }
+    },
+    "1698810096943964:1800062": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943964_1800062.dnn"
+        }
+    },
+    "1698810096944867:1800904": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/ML/ground_segmentation_model.dnn",
+                "hash": "f619838c3203487d0aee1c6a9b5082bb"
+            }
+        }
+    }
+}

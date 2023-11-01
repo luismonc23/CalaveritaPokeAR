@@ -1,0 +1,22 @@
+{
+    "1698810096944942:1801201": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Info Card [DELETE_ME]/Textures"
+            }
+        }
+    },
+    "1698810096945899:1801424": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944942:1801201",
+            "resources": [
+                "1698810096943593:1799795"
+            ]
+        }
+    }
+}

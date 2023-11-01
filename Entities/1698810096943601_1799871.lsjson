@@ -1,0 +1,30 @@
+{
+    "1698810096943601:1799871": {
+        "IResourceController": {
+            "name": "cesta",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634318535043033:177829",
+            "fileId": "1698810096944593:1800697",
+            "originalId": "1698810096944595:1800699",
+            "expected_hash": "907dca12ef0cb30e4876a8df748d32e7"
+        },
+        "IResourceManager": {
+            "uid": "1634318535043033:177829",
+            "name": "cesta",
+            "flags": 0
+        }
+    },
+    "1698810096944593:1800697": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944593_1800697.oprfb"
+        }
+    },
+    "1698810096944595:1800699": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944595_1800699.oprfb"
+        }
+    }
+}

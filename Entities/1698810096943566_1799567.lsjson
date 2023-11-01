@@ -1,0 +1,77 @@
+{
+    "1588792306299846:25010": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bbe58d5c4aca037e6acea3d5b1a9cc53"
+                    },
+                    "v": "1698810096943986:1800082"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "78400",
+                "compressedSize": "41144",
+                "extension": "t3d",
+                "originalRAM": "622440",
+                "originalSize": "31142",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096943965:1800063"
+        }
+    },
+    "1698810096943566:1799567": {
+        "IResourceController": {
+            "name": "gif-shapes",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792306299846:25010",
+            "fileId": "1698810096943910:1799998",
+            "originalId": "1698810096943984:1800080",
+            "publicId": "1698810096944871:1800926",
+            "expected_hash": "9444f34b398cc6a90fcedfd4c9e3ca16"
+        },
+        "IResourceManager": {
+            "uid": "1588792306299846:25010",
+            "name": "Files/File_1698810096943910_1799998",
+            "flags": 1
+        }
+    },
+    "1698810096943910:1799998": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943910_1799998"
+        }
+    },
+    "1698810096943965:1800063": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943965_1800063"
+        }
+    },
+    "1698810096943984:1800080": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943984_1800080"
+        }
+    },
+    "1698810096943986:1800082": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943986_1800082"
+        }
+    },
+    "1698810096944871:1800926": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Advanced Ground Examples/gif-shapes",
+                "hash": "bbe58d5c4aca037e6acea3d5b1a9cc53",
+                "complexResourceHash": "c52a8d4759bf97d1b9dc24d2f2ea3adb"
+            }
+        }
+    }
+}

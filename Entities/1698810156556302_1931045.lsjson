@@ -1,0 +1,39 @@
+{
+    "1698810156555561:1931044": {
+        "IFileManager": {
+            "path": "Files/File_1698810156555561_1931044"
+        }
+    },
+    "1698810156556302:1931045": {
+        "IResourceController": {
+            "name": "lambert2SG Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810156556305:1931046",
+            "fileId": "1698810156555561:1931044",
+            "originalId": "1698810156572326:1931085",
+            "publicId": "1698810156859593:1931560",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810156556305:1931046",
+            "name": "Files/File_1698810156555561_1931044",
+            "flags": 1
+        }
+    },
+    "1698810156572326:1931085": {
+        "IFileManager": {
+            "path": "Files/File_1698810156572326_1931085.lsmat"
+        }
+    },
+    "1698810156859593:1931560": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_skull/Materials0/lambert2SG Graph.lsmat",
+                "hash": "8b98a82fd3c4a75228473b908dbe8104"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1698810096944916:1801103": {
+        "IResourceController": {
+            "public": {
+                "path": "UI"
+            }
+        }
+    },
+    "1698810096945865:1801412": {
+        "IResourceController": {
+            "name": "UI",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944916:1801103",
+            "resources": [
+                "1698810096945864:1801411"
+            ]
+        }
+    }
+}

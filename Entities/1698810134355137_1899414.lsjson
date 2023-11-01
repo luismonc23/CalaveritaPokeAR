@@ -1,0 +1,39 @@
+{
+    "1698810134354386:1899413": {
+        "IFileManager": {
+            "path": "Files/File_1698810134354386_1899413"
+        }
+    },
+    "1698810134355137:1899414": {
+        "IResourceController": {
+            "name": "ground_grid 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810134355140:1899415",
+            "fileId": "1698810134354386:1899413",
+            "originalId": "1698810134368710:1899419",
+            "publicId": "1698810134614256:1901091",
+            "expected_hash": "b3b0bde108be61a2f83fd443c020206d"
+        },
+        "IResourceManager": {
+            "uid": "1698810134355140:1899415",
+            "name": "Files/File_1698810134354386_1899413",
+            "flags": 1
+        }
+    },
+    "1698810134368710:1899419": {
+        "IFileManager": {
+            "path": "Files/File_1698810134368710_1899419.lsmat"
+        }
+    },
+    "1698810134614256:1901091": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Materials/ground_grid 2 Graph.lsmat",
+                "hash": "47748f3725270dd207826031fc5308b6"
+            }
+        }
+    }
+}

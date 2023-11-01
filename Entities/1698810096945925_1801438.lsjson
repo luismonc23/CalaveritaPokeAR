@@ -1,0 +1,49 @@
+{
+    "1698810096944581:1800685": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944581_1800685.fbx"
+        }
+    },
+    "1698810096944953:1801246": {
+        "IResourceController": {
+            "public": {
+                "path": "goldcalaverita.fbx",
+                "hash": "d3e49fbb7dd1ea8a40a26bfaba140706"
+            }
+        }
+    },
+    "1698810096945925:1801438": {
+        "IResourceController": {
+            "name": "goldcalaverita",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698810096944581:1800685",
+            "publicId": "1698810096944953:1801246",
+            "expected_hash": "d3e49fbb7dd1ea8a40a26bfaba140706",
+            "resources": [
+                "1698810096945922:1801435",
+                "1698810096945924:1801436",
+                "1698810096943600:1799865",
+                "1698810096945925:1801437"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Color_E05",
+                        "v": "1634263664938052:584056"
+                    },
+                    {
+                        "k": "Sumele_Dress",
+                        "v": "1634263664517966:584010"
+                    },
+                    {
+                        "k": "lambert2SG",
+                        "v": "1634263664725741:584035"
+                    }
+                ]
+            }
+        }
+    }
+}

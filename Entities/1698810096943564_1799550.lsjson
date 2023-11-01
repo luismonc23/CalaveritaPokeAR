@@ -1,0 +1,38 @@
+{
+    "1588792218133665:15281": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943564:1799550": {
+        "IResourceController": {
+            "name": "SwitchTracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792218133665:15281",
+            "fileId": "1698810096943889:1799974",
+            "publicId": "1698810096944868:1800909",
+            "expected_hash": "4e07e72b9d7540b30af8282440d9ca5a"
+        },
+        "IResourceManager": {
+            "uid": "1588792218133665:15281",
+            "name": "Files/File_1698810096943889_1799974.js",
+            "flags": 1
+        }
+    },
+    "1698810096943889:1799974": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943889_1799974.js"
+        }
+    },
+    "1698810096944868:1800909": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SwitchTracking.js",
+                "hash": "4e07e72b9d7540b30af8282440d9ca5a"
+            }
+        }
+    }
+}

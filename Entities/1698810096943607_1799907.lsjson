@@ -1,0 +1,17 @@
+{
+    "1698810096943607:1799907": {
+        "IResourceController": {
+            "name": "temp_envelope _ Pivot 2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914347151:442556"
+        },
+        "IResourceManager": {
+            "uid": "1634428914347151:442556",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

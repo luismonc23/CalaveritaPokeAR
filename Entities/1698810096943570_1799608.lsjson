@@ -1,0 +1,38 @@
+{
+    "1633837228559283:1183566": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943570:1799608": {
+        "IResourceController": {
+            "name": "Script",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837228559283:1183566",
+            "fileId": "1698810096944015:1800114",
+            "publicId": "1698810096944892:1800997",
+            "expected_hash": "6d558586a05edbecf98841a29128f300"
+        },
+        "IResourceManager": {
+            "uid": "1633837228559283:1183566",
+            "name": "Files/File_1698810096944015_1800114.js",
+            "flags": 1
+        }
+    },
+    "1698810096944015:1800114": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944015_1800114.js"
+        }
+    },
+    "1698810096944892:1800997": {
+        "IResourceController": {
+            "public": {
+                "path": "Script.js",
+                "hash": "6d558586a05edbecf98841a29128f300"
+            }
+        }
+    }
+}

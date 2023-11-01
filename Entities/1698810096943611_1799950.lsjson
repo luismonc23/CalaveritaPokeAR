@@ -1,0 +1,79 @@
+{
+    "1634507245758289:1254481": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8f0e35b61d28fb0ca0b6f0e98057f4dd"
+                    },
+                    "v": "1698810096944764:1800864"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "972000",
+                "compressedSize": "193667",
+                "extension": "png",
+                "originalRAM": "7776000",
+                "originalSize": "541695",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944763:1800863"
+        }
+    },
+    "1698810096943611:1799950": {
+        "IResourceController": {
+            "name": "arco 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634507245758289:1254481",
+            "fileId": "1698810096944762:1800861",
+            "originalId": "1698810096944762:1800862",
+            "publicId": "1698810096944972:1801337",
+            "expected_hash": "8483820f33561c650e0b35f5190fa8cf",
+            "additional": {
+                "originHash": "8f0e35b61d28fb0ca0b6f0e98057f4dd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634507245758289:1254481",
+            "name": "Files/File1419.png",
+            "flags": 1
+        }
+    },
+    "1698810096944762:1800861": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944762_1800861.pvr"
+        }
+    },
+    "1698810096944762:1800862": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944762_1800862.png"
+        }
+    },
+    "1698810096944763:1800863": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944763_1800863.png"
+        }
+    },
+    "1698810096944764:1800864": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944764_1800864.pvr"
+        }
+    },
+    "1698810096944972:1801337": {
+        "IResourceController": {
+            "public": {
+                "path": "arco 2.png",
+                "hash": "8f0e35b61d28fb0ca0b6f0e98057f4dd"
+            }
+        }
+    }
+}

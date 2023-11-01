@@ -1,0 +1,79 @@
+{
+    "1633837239134453:1185021": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3ff20cc9a5a85b22f9c929ec07a95285"
+                    },
+                    "v": "1698810096944183:1800292"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "54385",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "181570",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944177:1800285"
+        }
+    },
+    "1698810096943580:1799691": {
+        "IResourceController": {
+            "name": "Material_diffuse - copia",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837239134453:1185021",
+            "fileId": "1698810096944175:1800283",
+            "originalId": "1698810096944176:1800284",
+            "publicId": "1698810096944915:1801099",
+            "expected_hash": "90cb2a7d5140f22d8f43a578e471c554",
+            "additional": {
+                "originHash": "3ff20cc9a5a85b22f9c929ec07a95285"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633837239134453:1185021",
+            "name": "Files/File675.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944175:1800283": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944175_1800283.pvr"
+        }
+    },
+    "1698810096944176:1800284": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944176_1800284.png"
+        }
+    },
+    "1698810096944177:1800285": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944177_1800285.png"
+        }
+    },
+    "1698810096944183:1800292": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944183_1800292.pvr"
+        }
+    },
+    "1698810096944915:1801099": {
+        "IResourceController": {
+            "public": {
+                "path": "Material_diffuse - copia.png",
+                "hash": "3ff20cc9a5a85b22f9c929ec07a95285"
+            }
+        }
+    }
+}

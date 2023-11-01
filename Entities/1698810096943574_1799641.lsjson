@@ -1,0 +1,40 @@
+{
+    "1698810096943574:1799641": {
+        "IResourceController": {
+            "name": "skullEmerge",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837232147228:1184141",
+            "fileId": "1698810096944073:1800179",
+            "originalId": "1698810096944074:1800180",
+            "publicId": "1698810096944900:1801035",
+            "expected_hash": "3298aac468d4f09c0a82e7750ac08b74"
+        },
+        "IResourceManager": {
+            "uid": "1633837232147228:1184141",
+            "name": "Files/File_1698810096944073_1800179",
+            "flags": 1
+        }
+    },
+    "1698810096944073:1800179": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944073_1800179"
+        }
+    },
+    "1698810096944074:1800180": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944074_1800180"
+        }
+    },
+    "1698810096944900:1801035": {
+        "IResourceController": {
+            "public": {
+                "path": "skullEmerge",
+                "hash": "3298aac468d4f09c0a82e7750ac08b74",
+                "complexResourceHash": "58e5b3f77ecf20afe59b483bb748155b"
+            }
+        }
+    }
+}

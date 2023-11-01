@@ -1,0 +1,39 @@
+{
+    "1698810154119653:1927365": {
+        "IFileManager": {
+            "path": "Files/File_1698810154119653_1927365"
+        }
+    },
+    "1698810154120258:1927366": {
+        "IResourceController": {
+            "name": "FrontColor Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810154120261:1927367",
+            "fileId": "1698810154119653:1927365",
+            "originalId": "1698810154134798:1927378",
+            "publicId": "1698810154442552:1927892",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810154120261:1927367",
+            "name": "Files/File_1698810154119653_1927365",
+            "flags": 1
+        }
+    },
+    "1698810154134798:1927378": {
+        "IFileManager": {
+            "path": "Files/File_1698810154134798_1927378.lsmat"
+        }
+    },
+    "1698810154442552:1927892": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_Wassets/Materials0/FrontColor Graph.lsmat",
+                "hash": "8da4d5243d8fda5e4b00eb15981efafb"
+            }
+        }
+    }
+}

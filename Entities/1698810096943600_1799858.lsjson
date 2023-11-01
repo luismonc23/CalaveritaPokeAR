@@ -1,0 +1,30 @@
+{
+    "1698810096943600:1799858": {
+        "IResourceController": {
+            "name": "mug",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634263270541342:470368",
+            "fileId": "1698810096944566:1800669",
+            "originalId": "1698810096944568:1800671",
+            "expected_hash": "aac4ec3d8d43f02c95d2ec2564eef01d"
+        },
+        "IResourceManager": {
+            "uid": "1634263270541342:470368",
+            "name": "mug",
+            "flags": 0
+        }
+    },
+    "1698810096944566:1800669": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944566_1800669.oprfb"
+        }
+    },
+    "1698810096944568:1800671": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944568_1800671.oprfb"
+        }
+    }
+}

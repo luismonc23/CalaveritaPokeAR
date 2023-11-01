@@ -1,0 +1,39 @@
+{
+    "1698810096943608:1799916": {
+        "IResourceController": {
+            "name": "Instanced Material [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634429905974487:903080",
+            "fileId": "1698810096944694:1800792",
+            "originalId": "1698810096944695:1800793",
+            "publicId": "1698810096944966:1801305",
+            "expected_hash": "8555ce1e8a273669ebcb5bf1635d82c7"
+        },
+        "IResourceManager": {
+            "uid": "1634429905974487:903080",
+            "name": "Files/File_1698810096944694_1800792",
+            "flags": 1
+        }
+    },
+    "1698810096944694:1800792": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944694_1800792"
+        }
+    },
+    "1698810096944695:1800793": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944695_1800793.lsmat"
+        }
+    },
+    "1698810096944966:1801305": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Materials/Instanced Material [DUPLICATE_ME].lsmat",
+                "hash": "3f3ff2ce11106f70e8528193c5fcdb0c"
+            }
+        }
+    }
+}

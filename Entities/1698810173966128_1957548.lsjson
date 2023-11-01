@@ -1,0 +1,39 @@
+{
+    "1698810173965527:1957547": {
+        "IFileManager": {
+            "path": "Files/File_1698810173965527_1957547"
+        }
+    },
+    "1698810173966128:1957548": {
+        "IResourceController": {
+            "name": "blkmat Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810173966131:1957549",
+            "fileId": "1698810173965527:1957547",
+            "originalId": "1698810173984325:1957582",
+            "publicId": "1698810174282181:1958069",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810173966131:1957549",
+            "name": "Files/File_1698810173965527_1957547",
+            "flags": 1
+        }
+    },
+    "1698810173984325:1957582": {
+        "IFileManager": {
+            "path": "Files/File_1698810173984325_1957582.lsmat"
+        }
+    },
+    "1698810174282181:1958069": {
+        "IResourceController": {
+            "public": {
+                "path": "blkmat Graph.lsmat",
+                "hash": "3e6c1385078e683428a4684195df025f"
+            }
+        }
+    }
+}

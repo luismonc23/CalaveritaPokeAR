@@ -1,0 +1,23 @@
+{
+    "1698810096944964:1801299": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Scripts"
+            }
+        }
+    },
+    "1698810096945950:1801460": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944964:1801299",
+            "resources": [
+                "1698810096943608:1799913",
+                "1698810096943608:1799915"
+            ]
+        }
+    }
+}

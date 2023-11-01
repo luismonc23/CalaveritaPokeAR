@@ -1,0 +1,39 @@
+{
+    "1698810096943592:1799785": {
+        "IResourceController": {
+            "name": "WoodFrame",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634184328325000:3160045",
+            "fileId": "1698810096944418:1800518",
+            "originalId": "1698810096944419:1800519",
+            "publicId": "1698810096944933:1801187",
+            "expected_hash": "51fd4569cf3e796a3e951fbec60a3fe9"
+        },
+        "IResourceManager": {
+            "uid": "1634184328325000:3160045",
+            "name": "Files/File_1698810096944418_1800518",
+            "flags": 1
+        }
+    },
+    "1698810096944418:1800518": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944418_1800518"
+        }
+    },
+    "1698810096944419:1800519": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944419_1800519.lsmat"
+        }
+    },
+    "1698810096944933:1801187": {
+        "IResourceController": {
+            "public": {
+                "path": "WoodFrame.lsmat",
+                "hash": "dec2b8edd8c2b62c81a588a6d10fb6e2"
+            }
+        }
+    }
+}

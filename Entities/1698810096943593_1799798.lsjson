@@ -1,0 +1,39 @@
+{
+    "1698810096943593:1799798": {
+        "IResourceController": {
+            "name": "info_card",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186304406180:3656767",
+            "fileId": "1698810096944443:1800543",
+            "originalId": "1698810096944443:1800544",
+            "publicId": "1698810096944944:1801207",
+            "expected_hash": "e793df95d8a594ef1c57a0e5222ffad9"
+        },
+        "IResourceManager": {
+            "uid": "1634186304406180:3656767",
+            "name": "Files/File_1698810096944443_1800543",
+            "flags": 1
+        }
+    },
+    "1698810096944443:1800543": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944443_1800543"
+        }
+    },
+    "1698810096944443:1800544": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944443_1800544.lsmat"
+        }
+    },
+    "1698810096944944:1801207": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Info Card [DELETE_ME]/Materials/info_card.lsmat",
+                "hash": "0ee34828dfb0458bbe182c92f18d3361"
+            }
+        }
+    }
+}

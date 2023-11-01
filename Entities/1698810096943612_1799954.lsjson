@@ -1,0 +1,76 @@
+{
+    "1634514686091372:3638440": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c93325b4a2aebf9d9c2cde4467e4b6a7"
+                    },
+                    "v": "1698810096944774:1800874"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "98304",
+                "compressedSize": "40555",
+                "extension": "t3d",
+                "originalRAM": "786432",
+                "originalSize": "118791",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944773:1800873"
+        }
+    },
+    "1698810096943612:1799954": {
+        "IResourceController": {
+            "name": "plus3",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634514686091372:3638440",
+            "fileId": "1698810096944771:1800871",
+            "originalId": "1698810096944772:1800872",
+            "publicId": "1698810096944973:1801340",
+            "expected_hash": "8695814e3ee8b188962c63c0cb6d9510"
+        },
+        "IResourceManager": {
+            "uid": "1634514686091372:3638440",
+            "name": "Files/File_1698810096944771_1800871",
+            "flags": 1
+        }
+    },
+    "1698810096944771:1800871": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944771_1800871"
+        }
+    },
+    "1698810096944772:1800872": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944772_1800872.gif"
+        }
+    },
+    "1698810096944773:1800873": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944773_1800873"
+        }
+    },
+    "1698810096944774:1800874": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944774_1800874"
+        }
+    },
+    "1698810096944973:1801340": {
+        "IResourceController": {
+            "public": {
+                "path": "plus3.gif",
+                "hash": "e3713cc42b577a4ee70cc484bf6e4b52"
+            }
+        }
+    }
+}

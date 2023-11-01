@@ -1,0 +1,24 @@
+{
+    "1698810096944968:1801315": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Meshes_1"
+            }
+        }
+    },
+    "1698810096945925:1801437": {
+        "IResourceController": {
+            "name": "Meshes_1",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944968:1801315",
+            "resources": [
+                "1698810096943609:1799926",
+                "1698810096943609:1799927",
+                "1698810096943609:1799928"
+            ]
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810096943594:1799808": {
+        "IResourceController": {
+            "name": "ground_mask 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634262083053876:119631",
+            "fileId": "1698810096944463:1800566",
+            "originalId": "1698810096944464:1800567",
+            "publicId": "1698810096944889:1800983",
+            "expected_hash": "d77616efdd3236040b64af10c3c9bef0"
+        },
+        "IResourceManager": {
+            "uid": "1634262083053876:119631",
+            "name": "Files/File_1698810096944463_1800566",
+            "flags": 1
+        }
+    },
+    "1698810096944463:1800566": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944463_1800566"
+        }
+    },
+    "1698810096944464:1800567": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944464_1800567.lsmat"
+        }
+    },
+    "1698810096944889:1800983": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Misc/ground_mask 2.lsmat",
+                "hash": "352e6d727ad44af5cfbe92d6f1fdb5b3"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810096943604:1799885": {
+        "IResourceController": {
+            "name": "Graph PBR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634360435404429:1950023",
+            "fileId": "1698810096944635:1800732",
+            "originalId": "1698810096944636:1800733",
+            "publicId": "1698810096944957:1801269",
+            "expected_hash": "036ee4fe1f03a33e967a7f6135063a5b"
+        },
+        "IResourceManager": {
+            "uid": "1634360435404429:1950023",
+            "name": "Files/File_1698810096944635_1800732",
+            "flags": 1
+        }
+    },
+    "1698810096944635:1800732": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944635_1800732"
+        }
+    },
+    "1698810096944636:1800733": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944636_1800733.lsmat"
+        }
+    },
+    "1698810096944957:1801269": {
+        "IResourceController": {
+            "public": {
+                "path": "Graph PBR.lsmat",
+                "hash": "fe0bcb75b03e983dddecf94a1c4defe3"
+            }
+        }
+    }
+}

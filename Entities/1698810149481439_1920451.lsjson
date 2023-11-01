@@ -1,0 +1,39 @@
+{
+    "1698810149480681:1920450": {
+        "IFileManager": {
+            "path": "Files/File_1698810149480681_1920450"
+        }
+    },
+    "1698810149481439:1920451": {
+        "IResourceController": {
+            "name": "cempasuchilmat Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810149481443:1920452",
+            "fileId": "1698810149480681:1920450",
+            "originalId": "1698810149496598:1920483",
+            "publicId": "1698810149780127:1920867",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810149481443:1920452",
+            "name": "Files/File_1698810149480681_1920450",
+            "flags": 1
+        }
+    },
+    "1698810149496598:1920483": {
+        "IFileManager": {
+            "path": "Files/File_1698810149496598_1920483.lsmat"
+        }
+    },
+    "1698810149780127:1920867": {
+        "IResourceController": {
+            "public": {
+                "path": "cempasuchilmat Graph.lsmat",
+                "hash": "203c5a5d635e8d5fcabefc5907c61882"
+            }
+        }
+    }
+}

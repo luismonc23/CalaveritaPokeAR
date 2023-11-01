@@ -1,0 +1,23 @@
+{
+    "1698810096944866:1800902": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/Render Targets"
+            }
+        }
+    },
+    "1698810096945403:1801374": {
+        "IResourceController": {
+            "name": "Render Targets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944866:1800902",
+            "resources": [
+                "1698810096943564:1799549",
+                "1698810096943564:1799552"
+            ]
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1698810096944960:1801279": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources"
+            }
+        }
+    },
+    "1698810096945949:1801459": {
+        "IResourceController": {
+            "name": "Giftbox Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944960:1801279",
+            "resources": [
+                "1698810096945947:1801456",
+                "1698810096945948:1801457",
+                "1698810096945949:1801458"
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1633837565299053:1303960": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943580:1799694": {
+        "IResourceController": {
+            "name": "startGame",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837565299053:1303960",
+            "fileId": "1698810096944186:1800295",
+            "publicId": "1698810096944916:1801102",
+            "expected_hash": "a2d58506ad4cb890d359202082f594d9"
+        },
+        "IResourceManager": {
+            "uid": "1633837565299053:1303960",
+            "name": "Files/File_1698810096944186_1800295.js",
+            "flags": 1
+        }
+    },
+    "1698810096944186:1800295": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944186_1800295.js"
+        }
+    },
+    "1698810096944916:1801102": {
+        "IResourceController": {
+            "public": {
+                "path": "startGame.js",
+                "hash": "a2d58506ad4cb890d359202082f594d9"
+            }
+        }
+    }
+}

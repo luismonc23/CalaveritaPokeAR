@@ -1,0 +1,48 @@
+{
+    "1698810096943610:1799937": {
+        "IResourceController": {
+            "name": "skullPop_new_vfx 2",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1634445598950241:4495808",
+            "fileId": "1698810096944734:1800833",
+            "originalId": "1698810096944735:1800834",
+            "publicId": "1698810096944969:1801323",
+            "expected_hash": "fe9609e5c81e3e6522bb7f92c239a32c",
+            "resources": [
+                "1698810096945958:1801465"
+            ],
+            "additional": {
+                "GraphFilepathKey": "Files/File1391/",
+                "_exteraFile_": [
+                    "Files/File1391/vfx.vfxgraph"
+                ]
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634445598950241:4495808",
+            "name": "Files/File_1698810096944734_1800833",
+            "flags": 1
+        }
+    },
+    "1698810096944734:1800833": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944734_1800833"
+        }
+    },
+    "1698810096944735:1800834": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944735_1800834.lsvfx"
+        }
+    },
+    "1698810096944969:1801323": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX [DOUBLE_CLICK_VFX_ASSET]/Spawn Example/skullPop_new_vfx 2.lsvfx",
+                "hash": "828ae3635b1c8da7d9bc61d5676c29e3"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810171629349:1953973": {
+        "IFileManager": {
+            "path": "Files/File_1698810171629349_1953973"
+        }
+    },
+    "1698810171630033:1953974": {
+        "IResourceController": {
+            "name": "temp____Default1 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810171630036:1953975",
+            "fileId": "1698810171629349:1953973",
+            "originalId": "1698810171644875:1954006",
+            "publicId": "1698810171805948:1954233",
+            "expected_hash": "b313f60e0a026fe82533f93e710f1845"
+        },
+        "IResourceManager": {
+            "uid": "1698810171630036:1953975",
+            "name": "Files/File_1698810171629349_1953973",
+            "flags": 1
+        }
+    },
+    "1698810171644875:1954006": {
+        "IFileManager": {
+            "path": "Files/File_1698810171644875_1954006.lsmat"
+        }
+    },
+    "1698810171805948:1954233": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Meshes/giftbox/Materials/temp____Default1 Graph.lsmat",
+                "hash": "18d217d12c7795b240d631fc15044d81"
+            }
+        }
+    }
+}

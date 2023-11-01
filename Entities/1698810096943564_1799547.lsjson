@@ -1,0 +1,38 @@
+{
+    "1588792218072110:15240": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943564:1799547": {
+        "IResourceController": {
+            "name": "CameraSetupController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792218072110:15240",
+            "fileId": "1698810096943886:1799971",
+            "publicId": "1698810096944867:1800908",
+            "expected_hash": "9a3b31d6d3fa80213ece76e3129f1f45"
+        },
+        "IResourceManager": {
+            "uid": "1588792218072110:15240",
+            "name": "Files/File_1698810096943886_1799971.js",
+            "flags": 1
+        }
+    },
+    "1698810096943886:1799971": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943886_1799971.js"
+        }
+    },
+    "1698810096944867:1800908": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/CameraSetupController.js",
+                "hash": "9a3b31d6d3fa80213ece76e3129f1f45"
+            }
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "1588882788994926:193432": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1792",
+                "compressedSize": "796",
+                "extension": "mesh",
+                "originalRAM": "1792",
+                "originalSize": "796",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "bitangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture1"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108623332:1873825"
+        }
+    },
+    "1698810096943569:1799593": {
+        "IResourceController": {
+            "name": "shadow_plane",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588882788994926:193432",
+            "fileId": "1698810096943952:1800048",
+            "originalId": "1698810096943953:1800049",
+            "publicId": "1698810096944879:1800962",
+            "expected_hash": "4649d59d58657e786eebaad58a052d2a",
+            "additional": {
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "9",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "9",
+                            "index": "1",
+                            "semantic": "normal"
+                        },
+                        {
+                            "format": "9",
+                            "index": "2",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "format": "9",
+                            "index": "3",
+                            "semantic": "bitangent"
+                        },
+                        {
+                            "format": "9",
+                            "index": "4",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "format": "9",
+                            "index": "5",
+                            "semantic": "texture1"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588882788994926:193432",
+            "name": "Files/File_1698810096943952_1800048.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096943952:1800048": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943952_1800048.mesh"
+        }
+    },
+    "1698810096943953:1800049": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943953_1800049.mesh"
+        }
+    },
+    "1698810096944879:1800962": {
+        "IResourceController": {
+            "public": {
+                "path": "Meshes/shadow_plane.mesh",
+                "hash": "4649d59d58657e786eebaad58a052d2a"
+            }
+        }
+    },
+    "1698810108623332:1873825": {
+        "IFileManager": {
+            "path": "Files/File_1698810108623332_1873825.mesh"
+        }
+    }
+}

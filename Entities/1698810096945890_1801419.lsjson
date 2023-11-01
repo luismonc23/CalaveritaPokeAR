@@ -1,0 +1,44 @@
+{
+    "1698810096944377:1800482": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944377_1800482.fbx"
+        }
+    },
+    "1698810096944931:1801176": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_more_Wassets_bk.fbx",
+                "hash": "0dedbbc6cd4c67de30f4e1420fc0c235"
+            }
+        }
+    },
+    "1698810096945890:1801419": {
+        "IResourceController": {
+            "name": "altar_more_Wassets_bk",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698810096944377:1800482",
+            "publicId": "1698810096944931:1801176",
+            "expected_hash": "0dedbbc6cd4c67de30f4e1420fc0c235",
+            "resources": [
+                "1698810096945889:1801417",
+                "1698810096945890:1801418",
+                "1698810096943590:1799766"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Basket_01",
+                        "v": "1634143494343226:210979"
+                    },
+                    {
+                        "k": "_auto_",
+                        "v": "1634143338312628:162273"
+                    }
+                ]
+            }
+        }
+    }
+}

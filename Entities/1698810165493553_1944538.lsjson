@@ -1,0 +1,39 @@
+{
+    "1698810165492053:1944537": {
+        "IFileManager": {
+            "path": "Files/File_1698810165492053_1944537"
+        }
+    },
+    "1698810165493553:1944538": {
+        "IResourceController": {
+            "name": "blinn8 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810165493558:1944539",
+            "fileId": "1698810165492053:1944537",
+            "originalId": "1698810165509224:1944574",
+            "publicId": "1698810165800802:1945054",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810165493558:1944539",
+            "name": "Files/File_1698810165492053_1944537",
+            "flags": 1
+        }
+    },
+    "1698810165509224:1944574": {
+        "IFileManager": {
+            "path": "Files/File_1698810165509224_1944574.lsmat"
+        }
+    },
+    "1698810165800802:1945054": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/mug/Materials0/blinn8 Graph.lsmat",
+                "hash": "d8e1ab5bffeb6b6434eb63834b362210"
+            }
+        }
+    }
+}

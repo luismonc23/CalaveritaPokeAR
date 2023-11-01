@@ -1,0 +1,30 @@
+{
+    "1698810096943600:1799865": {
+        "IResourceController": {
+            "name": "goldcalaverita",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634263665148592:584103",
+            "fileId": "1698810096944581:1800684",
+            "originalId": "1698810096944582:1800686",
+            "expected_hash": "95aa66df4c2e469a373e02c7f4dae897"
+        },
+        "IResourceManager": {
+            "uid": "1634263665148592:584103",
+            "name": "goldcalaverita",
+            "flags": 0
+        }
+    },
+    "1698810096944581:1800684": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944581_1800684.oprfb"
+        }
+    },
+    "1698810096944582:1800686": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944582_1800686.oprfb"
+        }
+    }
+}

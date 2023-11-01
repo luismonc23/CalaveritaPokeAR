@@ -1,0 +1,79 @@
+{
+    "1634358170696558:1527149": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "2e6181433dd81cb685d09e7c0ae3273f"
+                    },
+                    "v": "1698810096944630:1800727"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "26752",
+                "compressedSize": "24468",
+                "extension": "png",
+                "originalRAM": "210000",
+                "originalSize": "46873",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944629:1800726"
+        }
+    },
+    "1698810096943603:1799883": {
+        "IResourceController": {
+            "name": "rug 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634358170696558:1527149",
+            "fileId": "1698810096944626:1800724",
+            "originalId": "1698810096944627:1800725",
+            "publicId": "1698810096944957:1801267",
+            "expected_hash": "eddd0af07ce5b139c01130c219759ea9",
+            "additional": {
+                "originHash": "2e6181433dd81cb685d09e7c0ae3273f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634358170696558:1527149",
+            "name": "Files/File1248.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944626:1800724": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944626_1800724.pvr"
+        }
+    },
+    "1698810096944627:1800725": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944627_1800725.png"
+        }
+    },
+    "1698810096944629:1800726": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944629_1800726.png"
+        }
+    },
+    "1698810096944630:1800727": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944630_1800727.pvr"
+        }
+    },
+    "1698810096944957:1801267": {
+        "IResourceController": {
+            "public": {
+                "path": "rug 2.png",
+                "hash": "2e6181433dd81cb685d09e7c0ae3273f"
+            }
+        }
+    }
+}

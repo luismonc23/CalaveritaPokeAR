@@ -1,0 +1,24 @@
+{
+    "1698810096944944:1801210": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_skull/Materials0"
+            }
+        }
+    },
+    "1698810096945904:1801430": {
+        "IResourceController": {
+            "name": "Materials0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944944:1801210",
+            "resources": [
+                "1698810156145249:1930466",
+                "1698810156556302:1931045",
+                "1698810156950825:1931719"
+            ]
+        }
+    }
+}

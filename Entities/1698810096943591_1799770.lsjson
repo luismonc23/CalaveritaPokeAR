@@ -1,0 +1,38 @@
+{
+    "1634152780076602:3161483": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943591:1799770": {
+        "IResourceController": {
+            "name": "ClothSimulation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634152780076602:3161483",
+            "fileId": "1698810096944384:1800490",
+            "publicId": "1698810096944869:1800917",
+            "expected_hash": "83bfa7e0f89bf90092b80ffef997894f"
+        },
+        "IResourceManager": {
+            "uid": "1634152780076602:3161483",
+            "name": "Files/File_1698810096944384_1800490.js",
+            "flags": 1
+        }
+    },
+    "1698810096944384:1800490": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944384_1800490.js"
+        }
+    },
+    "1698810096944869:1800917": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/ClothSimulation.js",
+                "hash": "83bfa7e0f89bf90092b80ffef997894f"
+            }
+        }
+    }
+}

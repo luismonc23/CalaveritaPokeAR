@@ -1,0 +1,38 @@
+{
+    "1634435529160453:98700": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943608:1799918": {
+        "IResourceController": {
+            "name": "SpawnOnTap",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634435529160453:98700",
+            "fileId": "1698810096944698:1800796",
+            "publicId": "1698810096944966:1801308",
+            "expected_hash": "09e8245016e90db18b34fc9f03b98b60"
+        },
+        "IResourceManager": {
+            "uid": "1634435529160453:98700",
+            "name": "Files/File_1698810096944698_1800796.js",
+            "flags": 1
+        }
+    },
+    "1698810096944698:1800796": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944698_1800796.js"
+        }
+    },
+    "1698810096944966:1801308": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SpawnOnTap.js",
+                "hash": "09e8245016e90db18b34fc9f03b98b60"
+            }
+        }
+    }
+}

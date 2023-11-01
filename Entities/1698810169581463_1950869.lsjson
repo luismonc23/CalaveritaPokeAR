@@ -1,0 +1,39 @@
+{
+    "1698810169580716:1950868": {
+        "IFileManager": {
+            "path": "Files/File_1698810169580716_1950868"
+        }
+    },
+    "1698810169581463:1950869": {
+        "IResourceController": {
+            "name": "FrontColor Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810169581465:1950870",
+            "fileId": "1698810169580716:1950868",
+            "originalId": "1698810169598119:1950887",
+            "publicId": "1698810169888483:1951316",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810169581465:1950870",
+            "name": "Files/File_1698810169580716_1950868",
+            "flags": 1
+        }
+    },
+    "1698810169598119:1950887": {
+        "IFileManager": {
+            "path": "Files/File_1698810169598119_1950887.lsmat"
+        }
+    },
+    "1698810169888483:1951316": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/topmesa/Materials/FrontColor Graph.lsmat",
+                "hash": "ed6c966d57327e6daad527232d2cad96"
+            }
+        }
+    }
+}

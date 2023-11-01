@@ -1,0 +1,76 @@
+{
+    "1633904620041228:887290": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "583a65306e1c2957f0ab821a753f4bda"
+                    },
+                    "v": "1698810096944317:1800423"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "501760",
+                "compressedSize": "144101",
+                "extension": "t3d",
+                "originalRAM": "3998064",
+                "originalSize": "278875",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944316:1800422"
+        }
+    },
+    "1698810096943587:1799746": {
+        "IResourceController": {
+            "name": "velaanim",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633904620041228:887290",
+            "fileId": "1698810096944314:1800420",
+            "originalId": "1698810096944315:1800421",
+            "publicId": "1698810096944928:1801157",
+            "expected_hash": "19e6158e020a5fa40e60fb679e72527c"
+        },
+        "IResourceManager": {
+            "uid": "1633904620041228:887290",
+            "name": "Files/File_1698810096944314_1800420",
+            "flags": 1
+        }
+    },
+    "1698810096944314:1800420": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944314_1800420"
+        }
+    },
+    "1698810096944315:1800421": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944315_1800421.gif"
+        }
+    },
+    "1698810096944316:1800422": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944316_1800422"
+        }
+    },
+    "1698810096944317:1800423": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944317_1800423"
+        }
+    },
+    "1698810096944928:1801157": {
+        "IResourceController": {
+            "public": {
+                "path": "velaanim.gif",
+                "hash": "168047edd7ae923413fe5cccabaf3bc4"
+            }
+        }
+    }
+}

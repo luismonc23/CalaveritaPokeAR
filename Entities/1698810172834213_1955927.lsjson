@@ -1,0 +1,39 @@
+{
+    "1698810172833502:1955921": {
+        "IFileManager": {
+            "path": "Files/File_1698810172833502_1955921"
+        }
+    },
+    "1698810172834213:1955927": {
+        "IResourceController": {
+            "name": "skull 3 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810172834216:1955928",
+            "fileId": "1698810172833502:1955921",
+            "originalId": "1698810172853541:1955955",
+            "publicId": "1698810173008121:1956161",
+            "expected_hash": "b313f60e0a026fe82533f93e710f1845"
+        },
+        "IResourceManager": {
+            "uid": "1698810172834216:1955928",
+            "name": "Files/File_1698810172833502_1955921",
+            "flags": 1
+        }
+    },
+    "1698810172853541:1955955": {
+        "IFileManager": {
+            "path": "Files/File_1698810172853541_1955955.lsmat"
+        }
+    },
+    "1698810173008121:1956161": {
+        "IResourceController": {
+            "public": {
+                "path": "skull 3 Graph.lsmat",
+                "hash": "3c6101af226db648d2d7d6ca992c1236"
+            }
+        }
+    }
+}

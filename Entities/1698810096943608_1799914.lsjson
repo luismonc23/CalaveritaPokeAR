@@ -1,0 +1,42 @@
+{
+    "1698810096943608:1799914": {
+        "IResourceController": {
+            "name": "placeholder_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634429905889742:903048",
+            "fileId": "1698810096944691:1800789",
+            "originalId": "1698810096944692:1800790",
+            "publicId": "1698810096944965:1801302",
+            "expected_hash": "c17e85db3ce71f1d16c98934d26aa7fd",
+            "additional": {
+                "originHash": "c17e85db3ce71f1d16c98934d26aa7fd"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634429905889742:903048",
+            "name": "Files/File1338.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944691:1800789": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944691_1800789.png"
+        }
+    },
+    "1698810096944692:1800790": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944692_1800790.png"
+        }
+    },
+    "1698810096944965:1801302": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Textures/placeholder_texture.png",
+                "hash": "c17e85db3ce71f1d16c98934d26aa7fd"
+            }
+        }
+    }
+}

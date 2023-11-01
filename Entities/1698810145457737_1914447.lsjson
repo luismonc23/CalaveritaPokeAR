@@ -1,0 +1,39 @@
+{
+    "1698810145457174:1914446": {
+        "IFileManager": {
+            "path": "Files/File_1698810145457174_1914446"
+        }
+    },
+    "1698810145457737:1914447": {
+        "IResourceController": {
+            "name": "FrontColor 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810145457740:1914448",
+            "fileId": "1698810145457174:1914446",
+            "originalId": "1698810145474191:1914465",
+            "publicId": "1698810145784462:1914973",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810145457740:1914448",
+            "name": "Files/File_1698810145457174_1914446",
+            "flags": 1
+        }
+    },
+    "1698810145474191:1914465": {
+        "IFileManager": {
+            "path": "Files/File_1698810145474191_1914465.lsmat"
+        }
+    },
+    "1698810145784462:1914973": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Materials2/FrontColor 2 Graph.lsmat",
+                "hash": "f37c832039d3f748b6b1dac5764fc04b"
+            }
+        }
+    }
+}

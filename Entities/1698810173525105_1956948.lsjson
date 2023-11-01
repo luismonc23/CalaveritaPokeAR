@@ -1,0 +1,39 @@
+{
+    "1698810173524346:1956947": {
+        "IFileManager": {
+            "path": "Files/File_1698810173524346_1956947"
+        }
+    },
+    "1698810173525105:1956948": {
+        "IResourceController": {
+            "name": "arco Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810173525108:1956949",
+            "fileId": "1698810173524346:1956947",
+            "originalId": "1698810173539564:1956962",
+            "publicId": "1698810173851888:1957404",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810173525108:1956949",
+            "name": "Files/File_1698810173524346_1956947",
+            "flags": 1
+        }
+    },
+    "1698810173539564:1956962": {
+        "IFileManager": {
+            "path": "Files/File_1698810173539564_1956962.lsmat"
+        }
+    },
+    "1698810173851888:1957404": {
+        "IResourceController": {
+            "public": {
+                "path": "arco Graph.lsmat",
+                "hash": "106390611c89756e4d7a74ddbb31e501"
+            }
+        }
+    }
+}

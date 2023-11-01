@@ -1,0 +1,49 @@
+{
+    "1698810096943564:1799551": {
+        "IResourceController": {
+            "name": "ground_camera_material",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792218145291:15293",
+            "fileId": "1698810096943889:1799975",
+            "originalId": "1698810096943891:1799976",
+            "publicId": "1698810096944866:1800901",
+            "expected_hash": "cbed9b668f9d29fda81e278ebe883f8b",
+            "additional": {
+                "passInfos": [
+                    {
+                        "k": "0",
+                        "v": {
+                            "source": "/Users/david.li/Snapchat/Dev/visual-localization-lenses/Tests/FloorTemplate3/Public/Floor/Materials/ProjectGroundMaskMaterial/pass0/Shader.glsl"
+                        }
+                    }
+                ]
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792218145291:15293",
+            "name": "Files/File_1698810096943889_1799975",
+            "flags": 1
+        }
+    },
+    "1698810096943889:1799975": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943889_1799975"
+        }
+    },
+    "1698810096943891:1799976": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943891_1799976.lsmat"
+        }
+    },
+    "1698810096944866:1800901": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/Materials/ground_camera_material.lsmat",
+                "hash": "1be1bf214f3875ffec5fb87206509dc9"
+            }
+        }
+    }
+}

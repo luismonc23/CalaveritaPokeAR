@@ -1,0 +1,79 @@
+{
+    "1634142861732403:41272": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "407af275283152aaa9ea31211904a635"
+                    },
+                    "v": "1698810096944364:1800469"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "376832",
+                "compressedSize": "143708",
+                "extension": "png",
+                "originalRAM": "2990080",
+                "originalSize": "315927",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944363:1800468"
+        }
+    },
+    "1698810096943589:1799760": {
+        "IResourceController": {
+            "name": "Diseños altar (1) 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634142861732403:41272",
+            "fileId": "1698810096944361:1800466",
+            "originalId": "1698810096944362:1800467",
+            "publicId": "1698810096944878:1800957",
+            "expected_hash": "d23bd2a42c96088a937745aef1bb65ec",
+            "additional": {
+                "originHash": "407af275283152aaa9ea31211904a635"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634142861732403:41272",
+            "name": "Files/File872.png",
+            "flags": 1
+        }
+    },
+    "1698810096944361:1800466": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944361_1800466.pvr"
+        }
+    },
+    "1698810096944362:1800467": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944362_1800467.png"
+        }
+    },
+    "1698810096944363:1800468": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944363_1800468.png"
+        }
+    },
+    "1698810096944364:1800469": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944364_1800469.pvr"
+        }
+    },
+    "1698810096944878:1800957": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Diseños altar (1) 2.png",
+                "hash": "407af275283152aaa9ea31211904a635"
+            }
+        }
+    }
+}

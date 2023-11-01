@@ -1,0 +1,38 @@
+{
+    "1634152780137305:3161497": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943591:1799772": {
+        "IResourceController": {
+            "name": "VertexColorController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634152780137305:3161497",
+            "fileId": "1698810096944386:1800492",
+            "publicId": "1698810096944870:1800923",
+            "expected_hash": "e9e487e5e0687371286bf9e117197fe8"
+        },
+        "IResourceManager": {
+            "uid": "1634152780137305:3161497",
+            "name": "Files/File_1698810096944386_1800492.js",
+            "flags": 1
+        }
+    },
+    "1698810096944386:1800492": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944386_1800492.js"
+        }
+    },
+    "1698810096944870:1800923": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/VertexColorController.js",
+                "hash": "e9e487e5e0687371286bf9e117197fe8"
+            }
+        }
+    }
+}

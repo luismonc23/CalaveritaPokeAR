@@ -1,0 +1,40 @@
+{
+    "1698810096944599:1800703": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944599_1800703.fbx"
+        }
+    },
+    "1698810096944955:1801256": {
+        "IResourceController": {
+            "public": {
+                "path": "cesta_cala.fbx",
+                "hash": "9fc23b45e0c86f9cda492823abd25ccf"
+            }
+        }
+    },
+    "1698810096945931:1801444": {
+        "IResourceController": {
+            "name": "cesta_cala",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698810096944599:1800703",
+            "publicId": "1698810096944955:1801256",
+            "expected_hash": "9fc23b45e0c86f9cda492823abd25ccf",
+            "resources": [
+                "1698810096945930:1801442",
+                "1698810096945931:1801443",
+                "1698810096943602:1799873"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Basket_01",
+                        "v": "1634318810924357:239580"
+                    }
+                ]
+            }
+        }
+    }
+}

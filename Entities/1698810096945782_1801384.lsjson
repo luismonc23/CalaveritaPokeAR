@@ -1,0 +1,23 @@
+{
+    "1698810096944877:1800953": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Materials"
+            }
+        }
+    },
+    "1698810096945782:1801384": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944877:1800953",
+            "resources": [
+                "1698810134355137:1899414",
+                "1698810134712200:1901296"
+            ]
+        }
+    }
+}

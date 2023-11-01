@@ -1,0 +1,79 @@
+{
+    "1634428913737887:442414": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "28b2ac76e50c32e80bd923d693d325a3"
+                    },
+                    "v": "1698810096944686:1800784"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "9068",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "9068",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810096944670:1800768"
+        }
+    },
+    "1698810096943606:1799900": {
+        "IResourceController": {
+            "name": "envelope_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428913737887:442414",
+            "fileId": "1698810096944668:1800766",
+            "originalId": "1698810096944669:1800767",
+            "publicId": "1698810096944961:1801286",
+            "expected_hash": "28b2ac76e50c32e80bd923d693d325a3",
+            "additional": {
+                "originHash": "28b2ac76e50c32e80bd923d693d325a3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634428913737887:442414",
+            "name": "Files/File_1698810096944668_1800766.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944668:1800766": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944668_1800766.jpg"
+        }
+    },
+    "1698810096944669:1800767": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944669_1800767.jpg"
+        }
+    },
+    "1698810096944670:1800768": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944670_1800768.jpg"
+        }
+    },
+    "1698810096944686:1800784": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944686_1800784.jpg"
+        }
+    },
+    "1698810096944961:1801286": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Textures/envelope_d.jpg",
+                "hash": "28b2ac76e50c32e80bd923d693d325a3"
+            }
+        }
+    }
+}

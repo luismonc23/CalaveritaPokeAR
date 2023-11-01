@@ -1,0 +1,39 @@
+{
+    "1698810096943568:1799589": {
+        "IResourceController": {
+            "name": "Occluded PBR Ground [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588813361816147:131321",
+            "fileId": "1698810096943945:1800040",
+            "originalId": "1698810096943946:1800041",
+            "publicId": "1698810096944890:1800986",
+            "expected_hash": "efbb0c753ac7fb6ae8c89c06bf256528"
+        },
+        "IResourceManager": {
+            "uid": "1588813361816147:131321",
+            "name": "Files/File_1698810096943945_1800040",
+            "flags": 1
+        }
+    },
+    "1698810096943945:1800040": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943945_1800040"
+        }
+    },
+    "1698810096943946:1800041": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943946_1800041.lsmat"
+        }
+    },
+    "1698810096944890:1800986": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Occluded PBR Ground [DUPLICATE_ME].lsmat",
+                "hash": "c8aa6add82129c5923c1252f765653e5"
+            }
+        }
+    }
+}

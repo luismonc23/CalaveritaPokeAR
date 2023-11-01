@@ -1,0 +1,23 @@
+{
+    "1698810096944892:1800998": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets"
+            }
+        }
+    },
+    "1698810096945828:1801399": {
+        "IResourceController": {
+            "name": "altar_new_Wassets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944892:1800998",
+            "resources": [
+                "1698810096945825:1801397",
+                "1698810096945828:1801398"
+            ]
+        }
+    }
+}

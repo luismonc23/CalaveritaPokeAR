@@ -1,0 +1,89 @@
+{
+    "1633837232726030:1184216": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "2284",
+                "compressedSize": "1236",
+                "extension": "mesh",
+                "originalRAM": "2284",
+                "originalSize": "1236",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108668708:1873883"
+        }
+    },
+    "1698810096943575:1799645": {
+        "IResourceController": {
+            "name": "Mesh3",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837232726030:1184216",
+            "fileId": "1698810096944080:1800187",
+            "originalId": "1698810096944081:1800188",
+            "publicId": "1698810096944901:1801041",
+            "expected_hash": "2145fd5218bdaa2a6ad91222b8955719"
+        },
+        "IResourceManager": {
+            "uid": "1633837232726030:1184216",
+            "name": "Files/File_1698810096944080_1800187.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096944080:1800187": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944080_1800187.mesh"
+        }
+    },
+    "1698810096944081:1800188": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944081_1800188.mesh"
+        }
+    },
+    "1698810096944901:1801041": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets 2/Meshes/Mesh3.mesh",
+                "hash": "2145fd5218bdaa2a6ad91222b8955719"
+            }
+        }
+    },
+    "1698810108668708:1873883": {
+        "IFileManager": {
+            "path": "Files/File_1698810108668708_1873883.mesh"
+        }
+    }
+}

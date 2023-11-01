@@ -1,0 +1,39 @@
+{
+    "1698810096943611:1799948": {
+        "IResourceController": {
+            "name": "Toon",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634505460959317:819376",
+            "fileId": "1698810096944757:1800857",
+            "originalId": "1698810096944758:1800858",
+            "publicId": "1698810096944972:1801335",
+            "expected_hash": "5594daf9bd37fda56420e1827b25520f"
+        },
+        "IResourceManager": {
+            "uid": "1634505460959317:819376",
+            "name": "Files/File_1698810096944757_1800857",
+            "flags": 1
+        }
+    },
+    "1698810096944757:1800857": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944757_1800857"
+        }
+    },
+    "1698810096944758:1800858": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944758_1800858.lsmat"
+        }
+    },
+    "1698810096944972:1801335": {
+        "IResourceController": {
+            "public": {
+                "path": "Toon.lsmat",
+                "hash": "1887eaa3a1242a1c1d525462efae7c5c"
+            }
+        }
+    }
+}

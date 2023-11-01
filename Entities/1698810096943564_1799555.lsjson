@@ -1,0 +1,20 @@
+{
+    "1698810096943564:1799555": {
+        "IResourceController": {
+            "name": "Ground Mask",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792219122261:15364",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792219122261:15364",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

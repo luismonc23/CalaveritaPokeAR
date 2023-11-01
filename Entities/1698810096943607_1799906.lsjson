@@ -1,0 +1,17 @@
+{
+    "1698810096943607:1799906": {
+        "IResourceController": {
+            "name": "temp_box_top 2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914345261:442543"
+        },
+        "IResourceManager": {
+            "uid": "1634428914345261:442543",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

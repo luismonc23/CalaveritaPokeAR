@@ -1,0 +1,33 @@
+{
+    "1698810096943592:1799782": {
+        "IResourceController": {
+            "name": "papelpicado-Regular 6",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634181144360783:2380739",
+            "fileId": "1698810096944415:1800514",
+            "publicId": "1698810096944933:1801184",
+            "expected_hash": "3674c0bea7393b225bc5091bf4fb12df"
+        },
+        "IResourceManager": {
+            "uid": "1634181144360783:2380739",
+            "name": "Files/File1011.ttf",
+            "flags": 1
+        }
+    },
+    "1698810096944415:1800514": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944415_1800514.otf"
+        }
+    },
+    "1698810096944933:1801184": {
+        "IResourceController": {
+            "public": {
+                "path": "papelpicado-Regular 6.otf",
+                "hash": "3674c0bea7393b225bc5091bf4fb12df"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810169981273:1951433": {
+        "IFileManager": {
+            "path": "Files/File_1698810169981273_1951433"
+        }
+    },
+    "1698810169981865:1951434": {
+        "IResourceController": {
+            "name": "redmat Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810169981868:1951435",
+            "fileId": "1698810169981273:1951433",
+            "originalId": "1698810169997935:1951471",
+            "publicId": "1698810170326437:1951922",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810169981868:1951435",
+            "name": "Files/File_1698810169981273_1951433",
+            "flags": 1
+        }
+    },
+    "1698810169997935:1951471": {
+        "IFileManager": {
+            "path": "Files/File_1698810169997935_1951471.lsmat"
+        }
+    },
+    "1698810170326437:1951922": {
+        "IResourceController": {
+            "public": {
+                "path": "redmat Graph.lsmat",
+                "hash": "42f0d2609de66f6fb2602a08b7c3dedf"
+            }
+        }
+    }
+}

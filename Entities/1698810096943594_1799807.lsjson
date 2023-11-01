@@ -1,0 +1,39 @@
+{
+    "1698810096943594:1799807": {
+        "IResourceController": {
+            "name": "matte_shadow_with_segmentation 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634262082770108:119607",
+            "fileId": "1698810096944461:1800564",
+            "originalId": "1698810096944462:1800565",
+            "publicId": "1698810096944889:1800982",
+            "expected_hash": "bdf17f6ba79be244942a62603da7b9bd"
+        },
+        "IResourceManager": {
+            "uid": "1634262082770108:119607",
+            "name": "Files/File_1698810096944461_1800564",
+            "flags": 1
+        }
+    },
+    "1698810096944461:1800564": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944461_1800564"
+        }
+    },
+    "1698810096944462:1800565": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944462_1800565.lsmat"
+        }
+    },
+    "1698810096944889:1800982": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Misc/matte_shadow_with_segmentation 2.lsmat",
+                "hash": "d14785e680b42de7201984a64edf69aa"
+            }
+        }
+    }
+}

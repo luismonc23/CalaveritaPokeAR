@@ -1,0 +1,39 @@
+{
+    "1698810096943602:1799874": {
+        "IResourceController": {
+            "name": "Basket_01",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634319259367554:329021",
+            "fileId": "1698810096944601:1800705",
+            "originalId": "1698810096944602:1800706",
+            "publicId": "1698810096944955:1801258",
+            "expected_hash": "51fd4569cf3e796a3e951fbec60a3fe9"
+        },
+        "IResourceManager": {
+            "uid": "1634319259367554:329021",
+            "name": "Files/File_1698810096944601_1800705",
+            "flags": 1
+        }
+    },
+    "1698810096944601:1800705": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944601_1800705"
+        }
+    },
+    "1698810096944602:1800706": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944602_1800706.lsmat"
+        }
+    },
+    "1698810096944955:1801258": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/cesta_cala/Materials/Basket_01.lsmat",
+                "hash": "29cfcbbf1b4919c0fd1d41a50252cfd8"
+            }
+        }
+    }
+}

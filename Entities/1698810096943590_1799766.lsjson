@@ -1,0 +1,30 @@
+{
+    "1698810096943590:1799766": {
+        "IResourceController": {
+            "name": "altar_more_Wassets_bk",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634143338520407:162316",
+            "fileId": "1698810096944376:1800481",
+            "originalId": "1698810096944378:1800483",
+            "expected_hash": "62fb5cbe652e3ea614fce159e7bce862"
+        },
+        "IResourceManager": {
+            "uid": "1634143338520407:162316",
+            "name": "altar_more_Wassets_bk",
+            "flags": 0
+        }
+    },
+    "1698810096944376:1800481": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944376_1800481.oprfb"
+        }
+    },
+    "1698810096944378:1800483": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944378_1800483.oprfb"
+        }
+    }
+}

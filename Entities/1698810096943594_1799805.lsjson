@@ -1,0 +1,30 @@
+{
+    "1698810096943594:1799805": {
+        "IResourceController": {
+            "name": "altar_more_skull",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634261981800721:82459",
+            "fileId": "1698810096944457:1800559",
+            "originalId": "1698810096944458:1800561",
+            "expected_hash": "87d9a132530dff900ef6c15ba9f80197"
+        },
+        "IResourceManager": {
+            "uid": "1634261981800721:82459",
+            "name": "altar_more_skull",
+            "flags": 0
+        }
+    },
+    "1698810096944457:1800559": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944457_1800559.oprfb"
+        }
+    },
+    "1698810096944458:1800561": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944458_1800561.oprfb"
+        }
+    }
+}

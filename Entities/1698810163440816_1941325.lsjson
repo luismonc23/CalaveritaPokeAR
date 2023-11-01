@@ -1,0 +1,39 @@
+{
+    "1698810163440019:1941324": {
+        "IFileManager": {
+            "path": "Files/File_1698810163440019_1941324"
+        }
+    },
+    "1698810163440816:1941325": {
+        "IResourceController": {
+            "name": "rugmat 8 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810163440819:1941326",
+            "fileId": "1698810163440019:1941324",
+            "originalId": "1698810163456338:1941351",
+            "publicId": "1698810163754295:1941774",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810163440819:1941326",
+            "name": "Files/File_1698810163440019_1941324",
+            "flags": 1
+        }
+    },
+    "1698810163456338:1941351": {
+        "IFileManager": {
+            "path": "Files/File_1698810163456338_1941351.lsmat"
+        }
+    },
+    "1698810163754295:1941774": {
+        "IResourceController": {
+            "public": {
+                "path": "rugmat 8 Graph.lsmat",
+                "hash": "7ffa9113e1a4d356451c0cc8e85af42b"
+            }
+        }
+    }
+}

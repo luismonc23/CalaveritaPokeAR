@@ -1,0 +1,33 @@
+{
+    "1698810096943580:1799692": {
+        "IResourceController": {
+            "name": "Mexican no copyright music - Mariachi Music",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837561575087:1296419",
+            "fileId": "1698810096944184:1800293",
+            "publicId": "1698810096944915:1801100",
+            "expected_hash": "560feff0e40e5badf74b0e76fcaa19a4"
+        },
+        "IResourceManager": {
+            "uid": "1633837561575087:1296419",
+            "name": "Files/File_1698810096944184_1800293.mp3",
+            "flags": 1
+        }
+    },
+    "1698810096944184:1800293": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944184_1800293.mp3"
+        }
+    },
+    "1698810096944915:1801100": {
+        "IResourceController": {
+            "public": {
+                "path": "Mexican no copyright music - Mariachi Music.mp3",
+                "hash": "560feff0e40e5badf74b0e76fcaa19a4"
+            }
+        }
+    }
+}

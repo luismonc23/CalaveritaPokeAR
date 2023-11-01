@@ -1,0 +1,33 @@
+{
+    "1698810096943593:1799797": {
+        "IResourceController": {
+            "name": "Lato-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186304366641:3656755",
+            "fileId": "1698810096944442:1800542",
+            "publicId": "1698810096944943:1801205",
+            "expected_hash": "2d36b1a925432bae7f3c53a340868c6e"
+        },
+        "IResourceManager": {
+            "uid": "1634186304366641:3656755",
+            "name": "Files/File_1698810096944442_1800542.ttf",
+            "flags": 1
+        }
+    },
+    "1698810096944442:1800542": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944442_1800542.ttf"
+        }
+    },
+    "1698810096944943:1801205": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Info Card [DELETE_ME]/Fonts/Lato-Regular.ttf",
+                "hash": "2d36b1a925432bae7f3c53a340868c6e"
+            }
+        }
+    }
+}

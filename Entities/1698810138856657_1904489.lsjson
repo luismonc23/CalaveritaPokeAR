@@ -1,0 +1,39 @@
+{
+    "1698810138856040:1904488": {
+        "IFileManager": {
+            "path": "Files/File_1698810138856040_1904488"
+        }
+    },
+    "1698810138856657:1904489": {
+        "IResourceController": {
+            "name": "Vasija Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810138856662:1904490",
+            "fileId": "1698810138856040:1904488",
+            "originalId": "1698810138873999:1904521",
+            "publicId": "1698810139164835:1904924",
+            "expected_hash": "c3d9081c136ae3d610116b83f486c6bb"
+        },
+        "IResourceManager": {
+            "uid": "1698810138856662:1904490",
+            "name": "Files/File_1698810138856040_1904488",
+            "flags": 1
+        }
+    },
+    "1698810138873999:1904521": {
+        "IFileManager": {
+            "path": "Files/File_1698810138873999_1904521.lsmat"
+        }
+    },
+    "1698810139164835:1904924": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets/Materials2/Vasija Graph.lsmat",
+                "hash": "990411c993fb1eb7f00725bbb94cd993"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810096943570:1799605": {
+        "IResourceController": {
+            "name": "Occluded PBR Object [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629314291471219:161236",
+            "fileId": "1698810096944010:1800108",
+            "originalId": "1698810096944011:1800109",
+            "publicId": "1698810096944890:1800988",
+            "expected_hash": "af753df1d7a0a3a4c326520226744046"
+        },
+        "IResourceManager": {
+            "uid": "1629314291471219:161236",
+            "name": "Files/File_1698810096944010_1800108",
+            "flags": 1
+        }
+    },
+    "1698810096944010:1800108": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944010_1800108"
+        }
+    },
+    "1698810096944011:1800109": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944011_1800109.lsmat"
+        }
+    },
+    "1698810096944890:1800988": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Occluded PBR Object [DUPLICATE_ME].lsmat",
+                "hash": "732260fad80ca102b9f193d0e0d93d43"
+            }
+        }
+    }
+}

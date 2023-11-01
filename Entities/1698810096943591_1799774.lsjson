@@ -1,0 +1,39 @@
+{
+    "1698810096943591:1799774": {
+        "IResourceController": {
+            "name": "Stripe Material  [EDIT_ME] 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634152809955412:3199814",
+            "fileId": "1698810096944391:1800497",
+            "originalId": "1698810096944392:1800498",
+            "publicId": "1698810096944890:1800989",
+            "expected_hash": "8c2075ad1d01154ccccc34e2654a6619"
+        },
+        "IResourceManager": {
+            "uid": "1634152809955412:3199814",
+            "name": "Files/File_1698810096944391_1800497",
+            "flags": 1
+        }
+    },
+    "1698810096944391:1800497": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944391_1800497"
+        }
+    },
+    "1698810096944392:1800498": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944392_1800498.lsmat"
+        }
+    },
+    "1698810096944890:1800989": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Stripe Material  [EDIT_ME] 2.lsmat",
+                "hash": "e353743425f2a38b4060036c3c699143"
+            }
+        }
+    }
+}

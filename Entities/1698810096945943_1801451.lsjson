@@ -1,0 +1,22 @@
+{
+    "1698810096944959:1801275": {
+        "IResourceController": {
+            "public": {
+                "path": "Confetti VFX Resources"
+            }
+        }
+    },
+    "1698810096945943:1801451": {
+        "IResourceController": {
+            "name": "Confetti VFX Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944959:1801275",
+            "resources": [
+                "1698810096945942:1801450"
+            ]
+        }
+    }
+}

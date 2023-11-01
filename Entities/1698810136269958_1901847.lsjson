@@ -1,0 +1,39 @@
+{
+    "1698810136269418:1901846": {
+        "IFileManager": {
+            "path": "Files/File_1698810136269418_1901846"
+        }
+    },
+    "1698810136269958:1901847": {
+        "IResourceController": {
+            "name": "particula_cempa Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810136269960:1901848",
+            "fileId": "1698810136269418:1901846",
+            "originalId": "1698810136283297:1901852",
+            "publicId": "1698810136728383:1901963",
+            "expected_hash": "b12551a8f1e48bee911d2b342e5d7b8f"
+        },
+        "IResourceManager": {
+            "uid": "1698810136269960:1901848",
+            "name": "Files/File_1698810136269418_1901846",
+            "flags": 1
+        }
+    },
+    "1698810136283297:1901852": {
+        "IFileManager": {
+            "path": "Files/File_1698810136283297_1901852.lsmat"
+        }
+    },
+    "1698810136728383:1901963": {
+        "IResourceController": {
+            "public": {
+                "path": "ParticleResources/particula_cempa Graph.lsmat",
+                "hash": "d660b9cbf84aa53447a65c90115da26c"
+            }
+        }
+    }
+}

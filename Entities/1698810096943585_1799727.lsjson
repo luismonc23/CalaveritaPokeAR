@@ -1,0 +1,79 @@
+{
+    "1633839266368213:2123235": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "80e4140124c8b1d220084f0f7a49e855"
+                    },
+                    "v": "1698810096944247:1800357"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "111570",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "425363",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944246:1800356"
+        }
+    },
+    "1698810096943585:1799727": {
+        "IResourceController": {
+            "name": "textura_cempa",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633839266368213:2123235",
+            "fileId": "1698810096944243:1800354",
+            "originalId": "1698810096944244:1800355",
+            "publicId": "1698810096944924:1801138",
+            "expected_hash": "a02ca8a6efeeed4139e3720d8fe0129a",
+            "additional": {
+                "originHash": "80e4140124c8b1d220084f0f7a49e855"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633839266368213:2123235",
+            "name": "Files/File750.png",
+            "flags": 1
+        }
+    },
+    "1698810096944243:1800354": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944243_1800354.pvr"
+        }
+    },
+    "1698810096944244:1800355": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944244_1800355.png"
+        }
+    },
+    "1698810096944246:1800356": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944246_1800356.png"
+        }
+    },
+    "1698810096944247:1800357": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944247_1800357.pvr"
+        }
+    },
+    "1698810096944924:1801138": {
+        "IResourceController": {
+            "public": {
+                "path": "textura_cempa.png",
+                "hash": "80e4140124c8b1d220084f0f7a49e855"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810096943605:1799889": {
+        "IResourceController": {
+            "name": "simple_ground 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428257954464:89018",
+            "fileId": "1698810096944647:1800744",
+            "originalId": "1698810096944648:1800745",
+            "publicId": "1698810096944958:1801273",
+            "expected_hash": "c7f430c750d2cd0c8b8bfaabcdbfb657"
+        },
+        "IResourceManager": {
+            "uid": "1634428257954464:89018",
+            "name": "Files/File_1698810096944647_1800744",
+            "flags": 1
+        }
+    },
+    "1698810096944647:1800744": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944647_1800744"
+        }
+    },
+    "1698810096944648:1800745": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944648_1800745.lsmat"
+        }
+    },
+    "1698810096944958:1801273": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Advanced Ground Examples/simple_ground 2.lsmat",
+                "hash": "af8ece0515bfd80ac3e80e85d48982e5"
+            }
+        }
+    }
+}

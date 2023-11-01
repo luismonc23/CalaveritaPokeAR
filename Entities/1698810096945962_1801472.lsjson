@@ -1,0 +1,22 @@
+{
+    "1698810096944972:1801333": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Face Meshes"
+            }
+        }
+    },
+    "1698810096945962:1801472": {
+        "IResourceController": {
+            "name": "Face Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944972:1801333",
+            "resources": [
+                "1698810096943611:1799946"
+            ]
+        }
+    }
+}

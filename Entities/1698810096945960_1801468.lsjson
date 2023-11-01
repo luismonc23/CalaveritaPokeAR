@@ -1,0 +1,22 @@
+{
+    "1698810096944970:1801326": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example/Scripts"
+            }
+        }
+    },
+    "1698810096945960:1801468": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944970:1801326",
+            "resources": [
+                "1698810096943611:1799942"
+            ]
+        }
+    }
+}

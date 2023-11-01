@@ -1,0 +1,25 @@
+{
+    "1698810096944887:1800972": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Advanced Ground Examples"
+            }
+        }
+    },
+    "1698810096945807:1801391": {
+        "IResourceController": {
+            "name": "Advanced Ground Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944887:1800972",
+            "resources": [
+                "1698810096943565:1799559",
+                "1698810096943565:1799561",
+                "1698810096943566:1799566",
+                "1698810096943605:1799889"
+            ]
+        }
+    }
+}

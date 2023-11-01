@@ -1,0 +1,38 @@
+{
+    "1633837591026860:1344916": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943583:1799713": {
+        "IResourceController": {
+            "name": "modoDificil",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837591026860:1344916",
+            "fileId": "1698810096944215:1800325",
+            "publicId": "1698810096944922:1801131",
+            "expected_hash": "cf7bd3abce309a9bfeeb3e8e340730b1"
+        },
+        "IResourceManager": {
+            "uid": "1633837591026860:1344916",
+            "name": "Files/File_1698810096944215_1800325.js",
+            "flags": 1
+        }
+    },
+    "1698810096944215:1800325": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944215_1800325.js"
+        }
+    },
+    "1698810096944922:1801131": {
+        "IResourceController": {
+            "public": {
+                "path": "modoDificil.js",
+                "hash": "cf7bd3abce309a9bfeeb3e8e340730b1"
+            }
+        }
+    }
+}

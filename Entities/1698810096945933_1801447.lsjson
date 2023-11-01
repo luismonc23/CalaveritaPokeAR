@@ -1,0 +1,40 @@
+{
+    "1698810096944608:1800712": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944608_1800712.fbx"
+        }
+    },
+    "1698810096944955:1801259": {
+        "IResourceController": {
+            "public": {
+                "path": "topmesa.fbx",
+                "hash": "4879ed78aef88edd6ccabd8aa3409d78"
+            }
+        }
+    },
+    "1698810096945933:1801447": {
+        "IResourceController": {
+            "name": "topmesa",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1698810096944608:1800712",
+            "publicId": "1698810096944955:1801259",
+            "expected_hash": "4879ed78aef88edd6ccabd8aa3409d78",
+            "resources": [
+                "1698810096945932:1801445",
+                "1698810096945933:1801446",
+                "1698810096943602:1799877"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "FrontColor",
+                        "v": "1634351081273032:3647781"
+                    }
+                ]
+            }
+        }
+    }
+}

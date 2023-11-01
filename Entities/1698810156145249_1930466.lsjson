@@ -1,0 +1,39 @@
+{
+    "1698810156144505:1930465": {
+        "IFileManager": {
+            "path": "Files/File_1698810156144505_1930465"
+        }
+    },
+    "1698810156145249:1930466": {
+        "IResourceController": {
+            "name": "Sumele_Dress Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810156145252:1930467",
+            "fileId": "1698810156144505:1930465",
+            "originalId": "1698810156163410:1930498",
+            "publicId": "1698810156460862:1930915",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810156145252:1930467",
+            "name": "Files/File_1698810156144505_1930465",
+            "flags": 1
+        }
+    },
+    "1698810156163410:1930498": {
+        "IFileManager": {
+            "path": "Files/File_1698810156163410_1930498.lsmat"
+        }
+    },
+    "1698810156460862:1930915": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_skull/Materials0/Sumele_Dress Graph.lsmat",
+                "hash": "9d057fe101e36fea2ea792c989439248"
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1698810096944961:1801285": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Textures"
+            }
+        }
+    },
+    "1698810096945948:1801457": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944961:1801285",
+            "resources": [
+                "1698810096943606:1799900",
+                "1698810096943606:1799901",
+                "1698810096943608:1799911"
+            ]
+        }
+    }
+}

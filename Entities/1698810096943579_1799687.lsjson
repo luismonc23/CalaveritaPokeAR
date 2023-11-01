@@ -1,0 +1,79 @@
+{
+    "1633837238399137:1184953": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3f63a16d62a3911085eaec77aa52c97c"
+                    },
+                    "v": "1698810096944182:1800290"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "39000",
+                "compressedSize": "18539",
+                "extension": "png",
+                "originalRAM": "310800",
+                "originalSize": "61599",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944169:1800276"
+        }
+    },
+    "1698810096943579:1799687": {
+        "IResourceController": {
+            "name": "cempasuchil",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837238399137:1184953",
+            "fileId": "1698810096944168:1800274",
+            "originalId": "1698810096944168:1800275",
+            "publicId": "1698810096944913:1801091",
+            "expected_hash": "26b7436144de0d0a093d322ae3793637",
+            "additional": {
+                "originHash": "3f63a16d62a3911085eaec77aa52c97c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633837238399137:1184953",
+            "name": "Files/File666.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944168:1800274": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944168_1800274.pvr"
+        }
+    },
+    "1698810096944168:1800275": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944168_1800275.png"
+        }
+    },
+    "1698810096944169:1800276": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944169_1800276.png"
+        }
+    },
+    "1698810096944182:1800290": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944182_1800290.pvr"
+        }
+    },
+    "1698810096944913:1801091": {
+        "IResourceController": {
+            "public": {
+                "path": "cempasuchil.png",
+                "hash": "3f63a16d62a3911085eaec77aa52c97c"
+            }
+        }
+    }
+}

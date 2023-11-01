@@ -1,0 +1,79 @@
+{
+    "1633837618087144:1371217": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "8e662aa027fb1c78d122667f548732b4"
+                    },
+                    "v": "1698810096944233:1800345"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "960",
+                "compressedSize": "559",
+                "extension": "png",
+                "originalRAM": "7296",
+                "originalSize": "1045",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944229:1800340"
+        }
+    },
+    "1698810096943584:1799723": {
+        "IResourceController": {
+            "name": "toggle_background 2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837618087144:1371217",
+            "fileId": "1698810096944227:1800338",
+            "originalId": "1698810096944228:1800339",
+            "publicId": "1698810096944919:1801115",
+            "expected_hash": "9727e10a0a9f2abbbbc1931d6783853a",
+            "additional": {
+                "originHash": "8e662aa027fb1c78d122667f548732b4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633837618087144:1371217",
+            "name": "Files/File730.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944227:1800338": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944227_1800338.pvr"
+        }
+    },
+    "1698810096944228:1800339": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944228_1800339.png"
+        }
+    },
+    "1698810096944229:1800340": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944229_1800340.png"
+        }
+    },
+    "1698810096944233:1800345": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944233_1800345.pvr"
+        }
+    },
+    "1698810096944919:1801115": {
+        "IResourceController": {
+            "public": {
+                "path": "UI/Resources/Textures/Toggle/toggle_background 2.png",
+                "hash": "8e662aa027fb1c78d122667f548732b4"
+            }
+        }
+    }
+}

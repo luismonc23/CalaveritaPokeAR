@@ -1,0 +1,39 @@
+{
+    "1698810155357788:1929221": {
+        "IFileManager": {
+            "path": "Files/File_1698810155357788_1929221"
+        }
+    },
+    "1698810155358544:1929222": {
+        "IResourceController": {
+            "name": "rugmatcloth Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810155358547:1929223",
+            "fileId": "1698810155357788:1929221",
+            "originalId": "1698810155373443:1929254",
+            "publicId": "1698810155671882:1929671",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810155358547:1929223",
+            "name": "Files/File_1698810155357788_1929221",
+            "flags": 1
+        }
+    },
+    "1698810155373443:1929254": {
+        "IFileManager": {
+            "path": "Files/File_1698810155373443_1929254.lsmat"
+        }
+    },
+    "1698810155671882:1929671": {
+        "IResourceController": {
+            "public": {
+                "path": "rugmatcloth Graph.lsmat",
+                "hash": "371b409730c9ba13918e61de100a5604"
+            }
+        }
+    }
+}

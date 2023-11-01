@@ -1,0 +1,27 @@
+{
+    "1698810096944871:1800925": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Advanced Ground Examples"
+            }
+        }
+    },
+    "1698810096945761:1801380": {
+        "IResourceController": {
+            "name": "Advanced Ground Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944871:1800925",
+            "resources": [
+                "1698810096943566:1799567",
+                "1698810096943566:1799569",
+                "1698810096943569:1799599",
+                "1698810096943570:1799600",
+                "1698810096943568:1799586",
+                "1698810096943568:1799585"
+            ]
+        }
+    }
+}

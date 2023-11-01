@@ -1,0 +1,38 @@
+{
+    "1634505162067969:703948": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943611:1799942": {
+        "IResourceController": {
+            "name": "FaceMeshExtrude",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634505162067969:703948",
+            "fileId": "1698810096944742:1800842",
+            "publicId": "1698810096944970:1801327",
+            "expected_hash": "d98b57d66b42b9eec93147d75d140f74"
+        },
+        "IResourceManager": {
+            "uid": "1634505162067969:703948",
+            "name": "Files/File_1698810096944742_1800842.js",
+            "flags": 1
+        }
+    },
+    "1698810096944742:1800842": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944742_1800842.js"
+        }
+    },
+    "1698810096944970:1801327": {
+        "IResourceController": {
+            "public": {
+                "path": "Face Mesh Resources/Extrude Example/Scripts/FaceMeshExtrude.js",
+                "hash": "d98b57d66b42b9eec93147d75d140f74"
+            }
+        }
+    }
+}

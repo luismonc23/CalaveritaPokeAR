@@ -1,0 +1,79 @@
+{
+    "1588792306379555:25051": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4fac6a8ebaa7c47858979a0d015d6bc7"
+                    },
+                    "v": "1698810096943985:1800081"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "1619",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "3764",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096943966:1800064"
+        }
+    },
+    "1698810096943566:1799569": {
+        "IResourceController": {
+            "name": "flower",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792306379555:25051",
+            "fileId": "1698810096943912:1800000",
+            "originalId": "1698810096943913:1800001",
+            "publicId": "1698810096944871:1800927",
+            "expected_hash": "1ae6fdd912552d35863338f9ab49fd2e",
+            "additional": {
+                "originHash": "4fac6a8ebaa7c47858979a0d015d6bc7"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1588792306379555:25051",
+            "name": "Files/File58.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096943912:1800000": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943912_1800000.pvr"
+        }
+    },
+    "1698810096943913:1800001": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943913_1800001.png"
+        }
+    },
+    "1698810096943966:1800064": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943966_1800064.png"
+        }
+    },
+    "1698810096943985:1800081": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943985_1800081.pvr"
+        }
+    },
+    "1698810096944871:1800927": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Advanced Ground Examples/flower.png",
+                "hash": "4fac6a8ebaa7c47858979a0d015d6bc7"
+            }
+        }
+    }
+}

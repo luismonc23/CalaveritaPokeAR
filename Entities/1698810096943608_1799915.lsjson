@@ -1,0 +1,38 @@
+{
+    "1634429905937921:903064": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1698810096943608:1799915": {
+        "IResourceController": {
+            "name": "ObjectSpawnerExample",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634429905937921:903064",
+            "fileId": "1698810096944693:1800791",
+            "publicId": "1698810096944965:1801303",
+            "expected_hash": "7ab29f43436766b087a54276ddc79f1d"
+        },
+        "IResourceManager": {
+            "uid": "1634429905937921:903064",
+            "name": "Files/File_1698810096944693_1800791.js",
+            "flags": 1
+        }
+    },
+    "1698810096944693:1800791": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944693_1800791.js"
+        }
+    },
+    "1698810096944965:1801303": {
+        "IResourceController": {
+            "public": {
+                "path": "Material Instance Spawner Resources/Scripts/ObjectSpawnerExample.js",
+                "hash": "7ab29f43436766b087a54276ddc79f1d"
+            }
+        }
+    }
+}

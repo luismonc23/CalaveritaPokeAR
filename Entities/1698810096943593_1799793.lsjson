@@ -1,0 +1,39 @@
+{
+    "1698810096943593:1799793": {
+        "IResourceController": {
+            "name": "Graph Glass",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186303028232:3656555",
+            "fileId": "1698810096944435:1800535",
+            "originalId": "1698810096944436:1800536",
+            "publicId": "1698810096944941:1801197",
+            "expected_hash": "da34ed4c16a7a1445897c1a9803ffbd4"
+        },
+        "IResourceManager": {
+            "uid": "1634186303028232:3656555",
+            "name": "Files/File_1698810096944435_1800535",
+            "flags": 1
+        }
+    },
+    "1698810096944435:1800535": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944435_1800535"
+        }
+    },
+    "1698810096944436:1800536": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944436_1800536.lsmat"
+        }
+    },
+    "1698810096944941:1801197": {
+        "IResourceController": {
+            "public": {
+                "path": "Double Sided Glass Resources/Materials/Graph Glass.lsmat",
+                "hash": "9e0d1e9a255ecb913a48c5a052bb5da6"
+            }
+        }
+    }
+}

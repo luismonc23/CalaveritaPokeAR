@@ -1,0 +1,30 @@
+{
+    "1698810096943602:1799873": {
+        "IResourceController": {
+            "name": "cesta_cala",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1634318811142309:239621",
+            "fileId": "1698810096944598:1800702",
+            "originalId": "1698810096944600:1800704",
+            "expected_hash": "c0a0f5bc43534935e6ef09e63b91f7ce"
+        },
+        "IResourceManager": {
+            "uid": "1634318811142309:239621",
+            "name": "cesta_cala",
+            "flags": 0
+        }
+    },
+    "1698810096944598:1800702": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944598_1800702.oprfb"
+        }
+    },
+    "1698810096944600:1800704": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944600_1800704.oprfb"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "1634518367493133:4891874": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "5e78f489a91d00809d98b2ca3822c704"
+                    },
+                    "v": "1698810096944781:1800882"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1000000",
+                "compressedSize": "108170",
+                "extension": "jpg",
+                "originalRAM": "1000000",
+                "originalSize": "108170",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810096944780:1800881"
+        }
+    },
+    "1698810096943612:1799956": {
+        "IResourceController": {
+            "name": "output-onlinejpgtools",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634518367493133:4891874",
+            "fileId": "1698810096944778:1800879",
+            "originalId": "1698810096944779:1800880",
+            "publicId": "1698810096944973:1801342",
+            "expected_hash": "5e78f489a91d00809d98b2ca3822c704",
+            "additional": {
+                "originHash": "5e78f489a91d00809d98b2ca3822c704"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1634518367493133:4891874",
+            "name": "Files/File_1698810096944778_1800879.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944778:1800879": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944778_1800879.jpg"
+        }
+    },
+    "1698810096944779:1800880": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944779_1800880.jpg"
+        }
+    },
+    "1698810096944780:1800881": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944780_1800881.jpg"
+        }
+    },
+    "1698810096944781:1800882": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944781_1800882.jpg"
+        }
+    },
+    "1698810096944973:1801342": {
+        "IResourceController": {
+            "public": {
+                "path": "output-onlinejpgtools.jpg",
+                "hash": "5e78f489a91d00809d98b2ca3822c704"
+            }
+        }
+    }
+}

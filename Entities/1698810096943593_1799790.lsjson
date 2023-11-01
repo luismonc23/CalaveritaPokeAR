@@ -1,0 +1,39 @@
+{
+    "1698810096943593:1799790": {
+        "IResourceController": {
+            "name": "Double_Sided_Glass__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634186302700108:3656411",
+            "fileId": "1698810096944432:1800532",
+            "originalId": "1698810096944445:1800546",
+            "publicId": "1698810096944944:1801208",
+            "expected_hash": "50188c112b73a597b1dc542d8c6a13f5"
+        },
+        "IResourceManager": {
+            "uid": "1634186302700108:3656411",
+            "name": "sceneObject_5",
+            "flags": 0
+        }
+    },
+    "1698810096944432:1800532": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944432_1800532.oprfb"
+        }
+    },
+    "1698810096944445:1800546": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944445_1800546.oprfb"
+        }
+    },
+    "1698810096944944:1801208": {
+        "IResourceController": {
+            "public": {
+                "path": "Double_Sided_Glass__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "49a10393ca58f10454236960272001ad"
+            }
+        }
+    }
+}

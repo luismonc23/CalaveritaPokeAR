@@ -1,0 +1,26 @@
+{
+    "1698810096944953:1801247": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Materials0"
+            }
+        }
+    },
+    "1698810096945924:1801436": {
+        "IResourceController": {
+            "name": "Materials0",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944953:1801247",
+            "resources": [
+                "1698810166780152:1946636",
+                "1698810167180508:1947240",
+                "1698810167574298:1947883",
+                "1698810167976190:1948443",
+                "1698810168393445:1949030"
+            ]
+        }
+    }
+}

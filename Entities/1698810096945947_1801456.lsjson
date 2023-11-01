@@ -1,0 +1,22 @@
+{
+    "1698810096944960:1801280": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Meshes"
+            }
+        }
+    },
+    "1698810096945947:1801456": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944960:1801280",
+            "resources": [
+                "1698810096945947:1801455"
+            ]
+        }
+    }
+}

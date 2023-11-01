@@ -1,0 +1,39 @@
+{
+    "1698810154929851:1928559": {
+        "IFileManager": {
+            "path": "Files/File_1698810154929851_1928559"
+        }
+    },
+    "1698810154930592:1928560": {
+        "IResourceController": {
+            "name": "Basket_01 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810154930595:1928561",
+            "fileId": "1698810154929851:1928559",
+            "originalId": "1698810154945591:1928592",
+            "publicId": "1698810155240793:1929076",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810154930595:1928561",
+            "name": "Files/File_1698810154929851_1928559",
+            "flags": 1
+        }
+    },
+    "1698810154945591:1928592": {
+        "IFileManager": {
+            "path": "Files/File_1698810154945591_1928592.lsmat"
+        }
+    },
+    "1698810155240793:1929076": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/altar_more_Wassets_bk/Materials0/Basket_01 Graph.lsmat",
+                "hash": "d2a315361eb661562714c846c5e87cc4"
+            }
+        }
+    }
+}

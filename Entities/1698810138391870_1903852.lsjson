@@ -1,0 +1,39 @@
+{
+    "1698810138391160:1903850": {
+        "IFileManager": {
+            "path": "Files/File_1698810138391160_1903850"
+        }
+    },
+    "1698810138391870:1903852": {
+        "IResourceController": {
+            "name": "Coffee 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810138391877:1903853",
+            "fileId": "1698810138391160:1903850",
+            "originalId": "1698810138409924:1903884",
+            "publicId": "1698810138771900:1904387",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810138391877:1903853",
+            "name": "Files/File_1698810138391160_1903850",
+            "flags": 1
+        }
+    },
+    "1698810138409924:1903884": {
+        "IFileManager": {
+            "path": "Files/File_1698810138409924_1903884.lsmat"
+        }
+    },
+    "1698810138771900:1904387": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets/Materials2/Coffee 2 Graph.lsmat",
+                "hash": "60e14bc3db84c44eb244a0f9bdab3105"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1698810096943608:1799912": {
+        "IResourceController": {
+            "name": "MaterialInstancedSpawner__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634429905532539:902907",
+            "fileId": "1698810096944689:1800787",
+            "originalId": "1698810096944696:1800794",
+            "publicId": "1698810096944966:1801306",
+            "expected_hash": "f77d269607d237361cb30163994d687b"
+        },
+        "IResourceManager": {
+            "uid": "1634429905532539:902907",
+            "name": "sceneObject_12",
+            "flags": 0
+        }
+    },
+    "1698810096944689:1800787": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944689_1800787.oprfb"
+        }
+    },
+    "1698810096944696:1800794": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944696_1800794.oprfb"
+        }
+    },
+    "1698810096944966:1801306": {
+        "IResourceController": {
+            "public": {
+                "path": "MaterialInstancedSpawner__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "a199d4dd5873d6423ba423d26f026fa8"
+            }
+        }
+    }
+}

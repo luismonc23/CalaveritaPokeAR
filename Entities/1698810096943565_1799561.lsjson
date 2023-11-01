@@ -1,0 +1,39 @@
+{
+    "1698810096943565:1799561": {
+        "IResourceController": {
+            "name": "tiled_ground",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1588792305346047:24637",
+            "fileId": "1698810096943901:1799987",
+            "originalId": "1698810096943901:1799988",
+            "publicId": "1698810096944887:1800974",
+            "expected_hash": "d4983e57f70c4477ffb411365247bd99"
+        },
+        "IResourceManager": {
+            "uid": "1588792305346047:24637",
+            "name": "Files/File_1698810096943901_1799987",
+            "flags": 1
+        }
+    },
+    "1698810096943901:1799987": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943901_1799987"
+        }
+    },
+    "1698810096943901:1799988": {
+        "IFileManager": {
+            "path": "Files/File_1698810096943901_1799988.lsmat"
+        }
+    },
+    "1698810096944887:1800974": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Advanced Ground Examples/tiled_ground.lsmat",
+                "hash": "b835a553bf55ac638c379d657268c6c7"
+            }
+        }
+    }
+}

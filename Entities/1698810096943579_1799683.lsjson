@@ -1,0 +1,79 @@
+{
+    "1633837237691261:1184887": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "991e26676394bdbb0c6702808ae4695b"
+                    },
+                    "v": "1698810096944181:1800289"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "95472",
+                "compressedSize": "11840",
+                "extension": "png",
+                "originalRAM": "756400",
+                "originalSize": "26915",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944159:1800266"
+        }
+    },
+    "1698810096943579:1799683": {
+        "IResourceController": {
+            "name": "retrato2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837237691261:1184887",
+            "fileId": "1698810096944157:1800264",
+            "originalId": "1698810096944158:1800265",
+            "publicId": "1698810096944912:1801087",
+            "expected_hash": "4517b77fd2d7d1c071a0d57f07313c31",
+            "additional": {
+                "originHash": "991e26676394bdbb0c6702808ae4695b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633837237691261:1184887",
+            "name": "Files/File656.jpg",
+            "flags": 1
+        }
+    },
+    "1698810096944157:1800264": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944157_1800264.pvr"
+        }
+    },
+    "1698810096944158:1800265": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944158_1800265.png"
+        }
+    },
+    "1698810096944159:1800266": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944159_1800266.png"
+        }
+    },
+    "1698810096944181:1800289": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944181_1800289.pvr"
+        }
+    },
+    "1698810096944912:1801087": {
+        "IResourceController": {
+            "public": {
+                "path": "retrato2.png",
+                "hash": "991e26676394bdbb0c6702808ae4695b"
+            }
+        }
+    }
+}

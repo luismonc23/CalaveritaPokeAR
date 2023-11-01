@@ -1,0 +1,39 @@
+{
+    "1698810139659717:1905653": {
+        "IFileManager": {
+            "path": "Files/File_1698810139659717_1905653"
+        }
+    },
+    "1698810139660264:1905654": {
+        "IResourceController": {
+            "name": "PBR Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810139660266:1905655",
+            "fileId": "1698810139659717:1905653",
+            "originalId": "1698810139674062:1905670",
+            "publicId": "1698810139992678:1906172",
+            "expected_hash": "c3d9081c136ae3d610116b83f486c6bb"
+        },
+        "IResourceManager": {
+            "uid": "1698810139660266:1905655",
+            "name": "Files/File_1698810139659717_1905653",
+            "flags": 1
+        }
+    },
+    "1698810139674062:1905670": {
+        "IFileManager": {
+            "path": "Files/File_1698810139674062_1905670.lsmat"
+        }
+    },
+    "1698810139992678:1906172": {
+        "IResourceController": {
+            "public": {
+                "path": "altar_new_Wassets/Materials2/PBR Graph.lsmat",
+                "hash": "5536066deffb0b4932761e811b3c956c"
+            }
+        }
+    }
+}

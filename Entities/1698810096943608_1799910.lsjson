@@ -1,0 +1,99 @@
+{
+    "1634428914520101:442623": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "219780",
+                "compressedSize": "22691",
+                "extension": "mesh",
+                "originalRAM": "219780",
+                "originalSize": "22691",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1698810108815445:1873985"
+        }
+    },
+    "1698810096943608:1799910": {
+        "IResourceController": {
+            "name": "Particles Mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1634428914520101:442623",
+            "fileId": "1698810096944681:1800780",
+            "originalId": "1698810096944682:1800781",
+            "publicId": "1698810096944963:1801295",
+            "expected_hash": "a5adcbdb568b3556fe3d03137cb05292"
+        },
+        "IResourceManager": {
+            "uid": "1634428914520101:442623",
+            "name": "Files/File_1698810096944681_1800780.mesh",
+            "flags": 1
+        }
+    },
+    "1698810096944681:1800780": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944681_1800780.mesh"
+        }
+    },
+    "1698810096944682:1800781": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944682_1800781.mesh"
+        }
+    },
+    "1698810096944963:1801295": {
+        "IResourceController": {
+            "public": {
+                "path": "Giftbox Resources/Particles/Particles Mesh.mesh",
+                "hash": "a5adcbdb568b3556fe3d03137cb05292"
+            }
+        }
+    },
+    "1698810108815445:1873985": {
+        "IFileManager": {
+            "path": "Files/File_1698810108815445_1873985.mesh"
+        }
+    }
+}

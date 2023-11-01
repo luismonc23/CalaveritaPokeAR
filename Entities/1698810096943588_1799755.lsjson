@@ -1,0 +1,79 @@
+{
+    "1633906512819667:1220552": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ac57b795150495c89f3dd2354dab82d3"
+                    },
+                    "v": "1698810096944343:1800451"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "129888",
+                "compressedSize": "34343",
+                "extension": "png",
+                "originalRAM": "1039104",
+                "originalSize": "143592",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1698810096944342:1800450"
+        }
+    },
+    "1698810096943588:1799755": {
+        "IResourceController": {
+            "name": "Untitled",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633906512819667:1220552",
+            "fileId": "1698810096944341:1800448",
+            "originalId": "1698810096944341:1800449",
+            "publicId": "1698810096944929:1801166",
+            "expected_hash": "de1612937dab77ad45833990f0fdf976",
+            "additional": {
+                "originHash": "ac57b795150495c89f3dd2354dab82d3"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1633906512819667:1220552",
+            "name": "Files/File854.png",
+            "flags": 1
+        }
+    },
+    "1698810096944341:1800448": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944341_1800448.pvr"
+        }
+    },
+    "1698810096944341:1800449": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944341_1800449.png"
+        }
+    },
+    "1698810096944342:1800450": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944342_1800450.png"
+        }
+    },
+    "1698810096944343:1800451": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944343_1800451.pvr"
+        }
+    },
+    "1698810096944929:1801166": {
+        "IResourceController": {
+            "public": {
+                "path": "Untitled.png",
+                "hash": "ac57b795150495c89f3dd2354dab82d3"
+            }
+        }
+    }
+}

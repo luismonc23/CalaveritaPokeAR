@@ -1,0 +1,33 @@
+{
+    "1698810096943581:1799699": {
+        "IResourceController": {
+            "name": "mixkit-retro-game-notification-212 2",
+            "type": 5,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1633837565537276:1304040",
+            "fileId": "1698810096944194:1800302",
+            "publicId": "1698810096944921:1801123",
+            "expected_hash": "f18b57ee9568589d2f719d26f69f9943"
+        },
+        "IResourceManager": {
+            "uid": "1633837565537276:1304040",
+            "name": "Files/File694.mp3",
+            "flags": 1
+        }
+    },
+    "1698810096944194:1800302": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944194_1800302.wav"
+        }
+    },
+    "1698810096944921:1801123": {
+        "IResourceController": {
+            "public": {
+                "path": "mixkit-retro-game-notification-212 2.wav",
+                "hash": "f18b57ee9568589d2f719d26f69f9943"
+            }
+        }
+    }
+}

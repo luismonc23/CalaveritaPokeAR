@@ -1,0 +1,39 @@
+{
+    "1698810167975119:1948442": {
+        "IFileManager": {
+            "path": "Files/File_1698810167975119_1948442"
+        }
+    },
+    "1698810167976190:1948443": {
+        "IResourceController": {
+            "name": "Sumele_Dress 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810167976194:1948444",
+            "fileId": "1698810167975119:1948442",
+            "originalId": "1698810167993051:1948480",
+            "publicId": "1698810168306738:1948926",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810167976194:1948444",
+            "name": "Files/File_1698810167975119_1948442",
+            "flags": 1
+        }
+    },
+    "1698810167993051:1948480": {
+        "IFileManager": {
+            "path": "Files/File_1698810167993051_1948480.lsmat"
+        }
+    },
+    "1698810168306738:1948926": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Materials0/Sumele_Dress 2 Graph.lsmat",
+                "hash": "f8db3ca2c4011b2daf53bfa41b207082"
+            }
+        }
+    }
+}

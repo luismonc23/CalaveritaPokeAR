@@ -1,0 +1,39 @@
+{
+    "1698810096943570:1799604": {
+        "IResourceController": {
+            "name": "Occluded Unlit Object [DUPLICATE_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1629314281884571:147187",
+            "fileId": "1698810096944008:1800106",
+            "originalId": "1698810096944009:1800107",
+            "publicId": "1698810096944890:1800987",
+            "expected_hash": "c4aeb0bb0a05a04f632e022e958c4bc4"
+        },
+        "IResourceManager": {
+            "uid": "1629314281884571:147187",
+            "name": "Files/File_1698810096944008_1800106",
+            "flags": 1
+        }
+    },
+    "1698810096944008:1800106": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944008_1800106"
+        }
+    },
+    "1698810096944009:1800107": {
+        "IFileManager": {
+            "path": "Files/File_1698810096944009_1800107.lsmat"
+        }
+    },
+    "1698810096944890:1800987": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/Occluded Unlit Object [DUPLICATE_ME].lsmat",
+                "hash": "8d46a8c3f6d898725215a1374f137c26"
+            }
+        }
+    }
+}

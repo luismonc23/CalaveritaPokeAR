@@ -1,0 +1,23 @@
+{
+    "1698810096944966:1801309": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Designs",
+                "hash": "027eac8099d48b4f89d7d03b6fbc4af7"
+            }
+        }
+    },
+    "1698810096945786:1801385": {
+        "IResourceController": {
+            "name": "Designs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944966:1801309",
+            "resources": [
+                "1698810096943609:1799919"
+            ]
+        }
+    }
+}

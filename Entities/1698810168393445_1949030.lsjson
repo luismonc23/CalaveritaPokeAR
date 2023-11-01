@@ -1,0 +1,39 @@
+{
+    "1698810168392740:1949029": {
+        "IFileManager": {
+            "path": "Files/File_1698810168392740_1949029"
+        }
+    },
+    "1698810168393445:1949030": {
+        "IResourceController": {
+            "name": "lambert2SG 2 Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1698810168393448:1949031",
+            "fileId": "1698810168392740:1949029",
+            "originalId": "1698810168409475:1949062",
+            "publicId": "1698810168702316:1949549",
+            "expected_hash": "ef96bcbe5f4476a6af1e6ddfa591cdc2"
+        },
+        "IResourceManager": {
+            "uid": "1698810168393448:1949031",
+            "name": "Files/File_1698810168392740_1949029",
+            "flags": 1
+        }
+    },
+    "1698810168409475:1949062": {
+        "IFileManager": {
+            "path": "Files/File_1698810168409475_1949062.lsmat"
+        }
+    },
+    "1698810168702316:1949549": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/goldcalaverita/Materials0/lambert2SG 2 Graph.lsmat",
+                "hash": "a71247fbdfbe4e06e0fb2ea4a4e90518"
+            }
+        }
+    }
+}

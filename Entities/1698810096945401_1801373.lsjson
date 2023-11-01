@@ -1,0 +1,23 @@
+{
+    "1698810096944865:1800899": {
+        "IResourceController": {
+            "public": {
+                "path": "Segmentation Resources/Materials"
+            }
+        }
+    },
+    "1698810096945401:1801373": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1698810096944865:1800899",
+            "resources": [
+                "1698810096943564:1799548",
+                "1698810096943564:1799551"
+            ]
+        }
+    }
+}
